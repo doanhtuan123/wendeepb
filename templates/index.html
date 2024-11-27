@@ -40,7 +40,7 @@
         <section class="news">
             <h2>Tin Tức Mới</h2>
             <div class="news-grid">
-                {% for item in data[:30] %}
+                {% for item in data[:3] %}
                     <div class="news-item">
                         <p><strong>Nguồn: </strong>{{ item['source']['source_name'] }}</p>
                         <a href="{{ item['source']['source_link'] }}" target="_blank">
