@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="vi">
-    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +10,6 @@
     <!-- Header -->
     <header>
         <div class="logo">DEEPB</div>
-
         <div class="search">
             <form action="/search" method="get">
                 <input type="text" name="filename" placeholder="Tìm kiếm theo tên file..." required>
@@ -25,8 +23,8 @@
         <!-- Featured Section -->
         <section class="featured">
             <div class="featured-item">
-                <p><strong>Nguồn: </strong>{{ data[0]['source']['source_name'] }}</p>
-                <a href="{{ data[0]['source']['source_link'] }}" target="_blank">
+                <p><strong>Nguồn: </strong>{{ data[0]['source']['source_name'] if data[0]['source'] else "Không rõ nguồn" }}</p>
+                <a href="{{ data[0]['source']['source_link'] if data[0]['source'] and data[0]['source']['source_link'] else '#' }}" target="_blank">
                     {% if data[0]['attachments'] and data[0]['attachments']|length > 0 %}
                         <img src="{{ data[0]['attachments'][0]['link'] }}" alt="Ảnh bài viết" class="article-img">
                     {% else %}
@@ -42,15 +40,19 @@
             <div class="news-grid">
                 {% for item in data[:3] %}
                     <div class="news-item">
-                        <p><strong>Nguồn: </strong>{{ item['source']['source_name'] }}</p>
-                        <a href="{{ item['source']['source_link'] }}" target="_blank">
+                        <p><strong>Nguồn: </strong>{{ item['source']['source_name'] if item['source'] else "Không rõ nguồn" }}</p>
+                        <a href="{{ item['source']['source_link'] if item['source'] and item['source']['source_link'] else '#' }}" target="_blank">
                             {% if item['attachments'] and item['attachments']|length > 0 %}
                                 <img src="{{ item['attachments'][0]['link'] }}" alt="Ảnh bài viết" class="article-img">
                             {% else %}
                                 <img src="default_image_url.jpg" alt="Ảnh mặc định" class="article-img">
                             {% endif %}
                         </a>
-                        <p><strong>Link bài viết: </strong><a href="{{ item['link'] }}" target="_blank">{{ item['link'] }}</a></p>
+                        <p><strong>Link bài viết: </strong>
+                            <a href="{{ item['link'] if item['link'] else '#' }}" target="_blank">
+                                {{ item['link'] if item['link'] else "Không có link bài viết" }}
+                            </a>
+                        </p>
                     </div>
                 {% endfor %}
             </div>
@@ -59,7 +61,7 @@
 
     <!-- Footer -->
     <footer>
-        <p> </p>
+        <p>© 2024 DEEPB. All rights reserved.</p>
     </footer>
 </body>
 </html>
