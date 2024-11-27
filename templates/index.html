@@ -38,7 +38,7 @@
         <section class="news">
             <h2>Tin Tức Mới</h2>
             <div class="news-grid">
-                {% for item in data[:3] %}
+                {% for item in data[:30] %}
                     <div class="news-item">
                         <p><strong>Nguồn: </strong>{{ item['source']['source_name'] if item['source'] else "Không rõ nguồn" }}</p>
                         <a href="{{ item['source']['source_link'] if item['source'] and item['source']['source_link'] else '#' }}" target="_blank">
