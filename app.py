@@ -32,14 +32,16 @@ def search():
     # Lọc dữ liệu theo tên file chứa từ khóa
     results = []
     for data in json_data:
+        # Lọc qua tất cả các phần tử trong 'attachments'
         for attachment in data.get('attachments', []):
-            if query.lower() in attachment['filename'].lower():
+            # Kiểm tra nếu tên file chứa từ khóa tìm kiếm
+            if query.lower() in attachment.get('filename', '').lower():
                 results.append({
                     'title': data.get('content', ''),
                     'link': data.get('link', ''),
                     'image': attachment.get('link', ''),
                     'source': data.get('source', {}).get('source_name', ''),
-                    'filename': attachment['filename']
+                    'filename': attachment.get('filename', '')
                 })
     
     return render_template('search_results.html', results=results, query=query)
