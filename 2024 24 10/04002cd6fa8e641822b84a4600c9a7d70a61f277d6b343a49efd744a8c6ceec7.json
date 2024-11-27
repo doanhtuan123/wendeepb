@@ -1,0 +1,80 @@
+{
+    "_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/nguoi-giau-tinh-le-lam-tang-gia-nha-ha-noi-4806441.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 12:01:31",
+    "crawled_time": "2024/10/24 12:01:31",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_4bf46341f87b6e1844570678d17f9f4691b397931fa63615375bc17ff1d7aafe.png",
+            "hash": "4bf46341f87b6e1844570678d17f9f4691b397931fa63615375bc17ff1d7aafe",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/23/DJI0421JPG11704789130155717047-6649-1983-1727060190.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=Bs3vHJuG-hsXR7Q5Q5OR6Q",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_c4b679285a3ad44ed1d34846a3e5caad55f4e66b34b7ec175981525a4a0edd6e.png",
+            "hash": "c4b679285a3ad44ed1d34846a3e5caad55f4e66b34b7ec175981525a4a0edd6e",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/01/DJI0291JPG43241726746893153317-9104-5181-1727778024.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=-ORRP-BWC7BkEhMjIBdRIA",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_6bf34215119dcbc4a1da9aab965602da72ede6375e6a2fce03b55836436f6865.png",
+            "hash": "6bf34215119dcbc4a1da9aab965602da72ede6375e6a2fce03b55836436f6865",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/16/DJI0732JPG35491715884017172249-5497-3858-1723791844.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=CwrR46nZOzvNJmmFCdAZrQ",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_94125b78f7b7286731bf222e3c3af43a4772093933c3dfd5ba27e7cfab98fbe7.png",
+            "hash": "94125b78f7b7286731bf222e3c3af43a4772093933c3dfd5ba27e7cfab98fbe7",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/17/bs1674885446167488546587101674-5569-5400-1729154455.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=lslAUS-obQTX5cC0x8iD7Q",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_9a38215129be46cacd2051aa647209a57c67900ba6d37deaa3f959fd9db34653.png",
+            "hash": "9a38215129be46cacd2051aa647209a57c67900ba6d37deaa3f959fd9db34653",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/12/momouploadapi24013015472363842-8386-7607-1728727549.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=0UJNNHKR_9MhtVFpAg68MQ",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_8bed9b96b19d941ec0ff64f8b67799415503617b6ef2a213bbc0b9b225e67668.png",
+            "hash": "8bed9b96b19d941ec0ff64f8b67799415503617b6ef2a213bbc0b9b225e67668",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/14/s2263d8e2f99b11ebaa379736b1948-7628-9703-1728874310.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=T-N8bxBDVnXGAh7qudOzuQ",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_b9bd76968d353938d3e2b9be384200be8f062579c482c2db2ea711b8e98f9c55.png",
+            "hash": "b9bd76968d353938d3e2b9be384200be8f062579c482c2db2ea711b8e98f9c55",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/09/dji0732jpg35491715884017177775-4492-5421-1728439136.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=exZcrJaqJKjlqWD4zelGNw",
+            "type": "png"
+        },
+        {
+            "post_id": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7",
+            "filename": "04002cd6fa8e641822b84a4600c9a7d70a61f277d6b343a49efd744a8c6ceec7_8e0d91295e0c98fb20afe70a77ae54bf23b64fd0b9dfbd6b13e04863c006097d.png",
+            "hash": "8e0d91295e0c98fb20afe70a77ae54bf23b64fd0b9dfbd6b13e04863c006097d",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/26/screenshot20240116at1726Copy17-4420-9907-1727335606.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=OR1l3D2IDjfnqvZ0-aqHIw",
+            "type": "png"
+        }
+    ],
+    "content": "'Người giàu tỉnh lẻ làm tăng giá nhà Hà Nội'\n'Người giàu tỉnh lẻ làm tăng giá nhà Hà Nội' \n\n\nTôi thấy rất nhiều gia đình khá giả ở quê mua sẵn nhà Hà Nội cho con đi học đi làm, càng làm giá nhà tăng.\n\n\"Lý do làm chung cư cao cấp là dòng tiền đổ về thủ đô. Mỗi năm, có bao nhiêu gia đình ở các tỉnh có con em đi học ở Hà Nội? Tôi tin rằng mỗi tỉnh đều có rất nhiều gia đình có điều kiện, đủ giàu để mua cho con em họ một căn hộ.Chưa kể, khi đọc ở các trang bất động sản đăng bán tại các tỉnh, cũng không khó để tìm thấy những tin như: \"Bán nhà, chuyển công tác về Hà Nội\". Mỗi năm, rất nhiều người về Hà Nội công tác, lao động... Dòng tiền đổ về thì tội gì chủ đầu tư lại làm nhà ở xã hội?Quê ngoại tôi, cả làng có quá nửa đã lên Hà Nội, họ bán hết nhà cửa ở quê để mua nhà ở Hà Nội\".Độc giả bình luận như trên,cho rằng, lý do các chủ đầu tư tập trung xây dựng chung cư cao cấp là vì dòng tiền đổ về thủ đô nhiều. Một trong số đó là mỗi năm, có không ít gia đình từ các tỉnh đưa con em lên Hà Nội học tập và mua sẵn nhà.\nBình luận này được viết sau bài . Theo đó, nhà ở bình dân, vừa túi tiền vẫn \"tuyệt chủng\", còn dự án cao cấp tiếp tục đổ bộ Hà Nội với giá thấp nhất gần 70 triệu một m2.Hà Nội hiện đã quá đông, và dường như việc xây dựng thêm bao nhiêu nhà cũng không đủ để đáp ứng nhu cầu là nhận xét của độc giả\"Hầu như những ai khá giả ở các địa phương khác cũng lên Hà Nội mua nhà, khiến thủ đô ngày càng trở nên bức bối\".\"Tôi thấy nhiều người ở quê lên Hà Nội mua nhà cho con cái, nhiều người tìm mua nhà từ lúc con bé tí\", độc giả Nói về lý do, bạn đọc nicknameviết: \"Nhiều bậc bố mẹ đều cố gắng mua thêm một hai cái nhà cho con cái sau này, để con mình nó đỡ thua thiệt và cuộc sống đỡ vất hơn\".\n\"Người giàu tiếp tục đổ tiền vào bất động sản, mua thêm mà không lo lắng về rào cản thuế, mua bất động sản thật nhiều để đảm bảo tài sản. Chủ đầu tư tập trung vào phân khúc giá cao, tối đa lợi nhuận. Tầng lớp lao động thu nhập trung bình sẽ còn phải chờ đợi thêm nhiều thập kỷ nữa để có thể mua được nhà, độc giả bổ sung.Các dự án căn hộ cao cấp, hạng sang tiếp tục đổ bộ, trong khi nhà bình dân, vừa túi tiền vẫn tiếp tục vắng bóng tại Hà Nội. Điều này khiến tình trạng lệch pha trên thị trường nhà ở thủ đô ngày càng trầm trọng.Chủ tịch Hội môi giới Bất động sản Việt Nam (VARS) cho rằng thị trường nhà ở hiện nay chủ yếu là cao cấp dành cho giới đầu tư, nhiều tiền. Phân khúc bình dân đáng lẽ phải phổ biến nhất, lại không thấy dự án mới. \"Không ai mang món rẻ bình dân vào bán ở một tòa nhà trung tâm thương mại hết vì đơn giản thuế ở đó rất cao. Tưởng tượng Hà Nội là một trung tâm thương mại, nó tất nhiên không thể có thứ rẻ ở đó. Còn muốn bán được thứ rẻ thì phải tìm nơi có mặt bằng và thuế thấp mới được, và nơi như vậy thì không ở trong Hà Nội đâu\".\nVề hiện tượng nhiều người đổ dồn để các thành phố lớn, khiến nhu cầu nhà ở tăng cao, độc giả  cho rằng cần phải phân bổ đều các ngành nghề, dịch vụ trên toàn quốc, thay vì chỉ tập trung vào các thành phố lớn:\"Nên phân bổ tất cả các ngành nghề, dịch vụ cho tất cả tỉnh thành trên cả nước, tạo công ăn việc làm đồng đều. Không nên chỉ tập trung ở các thành phố lớn. Làm vậy, người dân ở đâu cũng có việc làm, nhà cửa giá cả phù hợp, không phải đổ xô lên các thành phố lớn, gây quá tải và làm chất lượng cuộc sống đi xuống\".\n*Quan điểm của bạn thế nào? Chia sẻ bài viết qua địa chỉ email: hoặc ấn vào box bên dưới.",
+    "share_num": 0,
+    "shares": []
+}

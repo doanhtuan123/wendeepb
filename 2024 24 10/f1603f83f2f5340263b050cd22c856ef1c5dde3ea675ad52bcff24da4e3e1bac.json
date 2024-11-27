@@ -1,0 +1,73 @@
+{
+    "_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/de-thi-tham-khao-lich-su-2025-kho-co-diem-10-4806861.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 12:42:12",
+    "crawled_time": "2024/10/24 12:42:12",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_3014a0af6ee236c8e79cb5063da1b40d4bef51620f8c1c0df0156a277eb0b2eb.png",
+            "hash": "3014a0af6ee236c8e79cb5063da1b40d4bef51620f8c1c0df0156a277eb0b2eb",
+            "link": "https://i1-vnexpress.vnecdn.net/2021/03/15/MonLichSu-1615772821-8948-1615773022.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=8eW1ZlTvOjO2IY4Hdj573w",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_8ac6909dd7a0f62c4bb78df7ec628b6738198483a19dab37d032183b293d5441.png",
+            "hash": "8ac6909dd7a0f62c4bb78df7ec628b6738198483a19dab37d032183b293d5441",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/22/dethithamkhao-PNG-5783-1729560061.png?w=680&h=0&q=100&dpr=1&fit=crop&s=QKEhpgO7jUKV_Rh-UKAw7Q",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_7bd7500b710c845a0edc2caae97ce6324bded8e35df230fe1839a14ea16b8e24.png",
+            "hash": "7bd7500b710c845a0edc2caae97ce6324bded8e35df230fe1839a14ea16b8e24",
+            "link": "https://i1-vnexpress.vnecdn.net/2021/03/19/hc-1616122513-1616122537-4185-1616122597.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=8NXYBWEDK4flPbyr-mbXvw",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_e68e14b055b64f19102f977efdcd071d3dd11877d7bb81b4e35477887e36c5b8.png",
+            "hash": "e68e14b055b64f19102f977efdcd071d3dd11877d7bb81b4e35477887e36c5b8",
+            "link": "https://i1-vnexpress.vnecdn.net/2023/09/05/thisinh16855841919071168558434-1617-3322-1693907132.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=sFDvbr4NBKcP9WK-YUA4Yg",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_72d7b0ca62ad8b8a2267e097f3c071954a2471e9264c28b6edea3e3712f8300a.png",
+            "hash": "72d7b0ca62ad8b8a2267e097f3c071954a2471e9264c28b6edea3e3712f8300a",
+            "link": "https://i1-vnexpress.vnecdn.net/2023/03/19/ojpg156342526552241563425566-1-8741-1170-1679195712.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=gAVHTPiASxZku_Xv5rL-0Q",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_674c293163bcd1bef37291ff546cfc4b5ee4e07a1d731b395f34a887297f2316.png",
+            "hash": "674c293163bcd1bef37291ff546cfc4b5ee4e07a1d731b395f34a887297f2316",
+            "link": "https://i1-vnexpress.vnecdn.net/2022/04/29/tenmonhoc157888978217971578889-1761-5486-1651196865.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=YcJ_pM8hR3im4x9-lWRj1Q",
+            "type": "png"
+        },
+        {
+            "post_id": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac",
+            "filename": "f1603f83f2f5340263b050cd22c856ef1c5dde3ea675ad52bcff24da4e3e1bac_ef7be84acfc6d1f51e6d187b091152e5b54c55764a81f9c6752d64bc46a1a5c3.png",
+            "hash": "ef7be84acfc6d1f51e6d187b091152e5b54c55764a81f9c6752d64bc46a1a5c3",
+            "link": "https://i1-vnexpress.vnecdn.net/2019/07/18/oJPG-1563425265-5224-1563425566.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=eY9GFadAfQ2OB1xF1lpisQ",
+            "type": "png"
+        }
+    ],
+    "content": "'Đề thi tham khảo Lịch sử 2025 khó có điểm 10'\n'Đề thi tham khảo Lịch sử 2025 khó có điểm 10' \n\n\nCách chấm điểm ở phần II chưa hợp lý vì số điểm phân bổ cho mỗi ý đúng là quá thấp, khiến học sinh khó đạt điểm tối đa.\n\nĐề thi tham khảo môn Lịch sử năm 2025, gồm có hai phần. Phần I: Trắc nghiệm chọn đáp án đúng có 24 câu; Phần II: Trắc nghiệm đúng sai có 4 câu, mỗi câu có 4 ý gồm a, b, c, d.Phần II sẽ khó cho thí sinh, khó đạt điểm 10 tuyệt đối. Vì nếu thí sinh chỉ làm sai một ý trong một câu a, b, c, d thì mất đi số điểm theo qui định của đáp án thay vì chỉ sai một câu sẽ mất 0,25 điểm như ở Phần I.\n24 câu hỏi trong phần I và 4 câu trong phần II có nội dung xuyên suốt trong chương trình lịch sử của lớp 12, chiếm tỉ lệ 90% và một tỉ lệ 10% (4 câu/24 câu +16 ý) nội dung kiến thức của chương trình lịch sử lớp 11.Cấu trúc đề thi tham khảo môn lịch sử 2025 có điểm mới về dạng câu hỏi so với những đề thi trước đây: phần II có dạng câu hỏi chọn đúng sai từ những bảng niên biểu thông tin (thời gian – nội dung) đoạn tư liệu lịch sử.\nVới Phần II, những bảng niên biểu thông tin (thời gian – nội dung) đoạn tư liệu lịch sử được trích dẫn từ những nguồn tư liệu lịch sử ngoài sách giáo khoa. do đó yêu cầu học sinh phải nắm vững các kiến thức cơ bản, trọng tâm trong quá trình học tập. Cần vận dụng tư duy để giải các câu hỏi dạng đúng sai này. 4 câu hỏi trong phần II cũng nhằm mục đích phân loại học sinh để cạnh tranh tuyển sinh Đại học.Về đáp án đề tham khảo phần I: câu trắc nghiệm nhiều phương án lựa chọn, mỗi câu trả lời đúng thí sinh được 0,25 điểm, là hợp lý. Riêng ở phần II, trắc nghiệm có 4 câu thí sinh chỉ chọn đúng hoặc sai.Nếu thí sinh chỉ lựa chọn chính xác 1 ý trong một câu hỏi được 0,1 điểm; lựa chọn chính xác 2 ý trong một câu hỏi được 0,25 điểm; thí sinh chỉ lựa chọn chính xác 3 ý trong một câu hỏi được 0,5 điểm; chọn chính xác 4 ý trong một câu hỏi được 1 điểm.\nTheo tôi, như vậy là chưa thật hợp lý, đề nghị nếu thí sinh lựa chọn chính xác từng ý trong một câu hỏi được 0,25 điểm mới thỏa đáng.Vì độ khó, dễ của mỗi ý trong một câu hỏi rất khác nhau với mỗi thí sinh, có thể ý đó khó với em này nhưng lại dễ với em khác, do vậy khi thí sinh trả lời đúng một ý trong một câu là được 0,25 điểm, đúng 4 ý là được 1 điểm và tổng điểm của phần II. Câu trắc nghiệm đúng sai có 4 câu mỗi câu 1 điểm là hợp lý, công bằng.\n*Quan điểm của bạn thế nào? Chia sẻ bài viết qua địa chỉ email:  hoặc ấn vào box bên dưới.",
+    "share_num": 0,
+    "shares": []
+}

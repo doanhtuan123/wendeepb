@@ -1,0 +1,80 @@
+{
+    "_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/toi-bo-day-them-vi-thay-minh-kieu-gi-cung-thien-vi-4806872.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 10:55:11",
+    "crawled_time": "2024/10/24 10:55:11",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_b5a8a4a1a3812f62b37200bacaefdf9e3f8004ecc6d56bcb1d99fd606f38a721.png",
+            "hash": "b5a8a4a1a3812f62b37200bacaefdf9e3f8004ecc6d56bcb1d99fd606f38a721",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/24/hoc1384308762-1724466926-5972-1724466965.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=M64EsOFEbJlJR8uWQ-hUpw",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_dc08f59cca553460c63fa99b4aa27f66f9b4c5bed26fe759a6ddc44cbcef41a7.png",
+            "hash": "dc08f59cca553460c63fa99b4aa27f66f9b4c5bed26fe759a6ddc44cbcef41a7",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/26/hocthem16379283677417163793086-7310-8835-1724655291.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=WEJ60iKBFwWDEmZJxLWkXg",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_111034f8c908078efa930b4f5c1536862606fe8773a17a0f4d9b8f47d97e5908.png",
+            "hash": "111034f8c908078efa930b4f5c1536862606fe8773a17a0f4d9b8f47d97e5908",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/03/hocthem16379283677417163793086-4905-7195-1725347907.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=uJdGg6pOOkbR1blp4xq0QA",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_d5e2da87b926e8fc50f5821b2ca99e2ee9c4daa1b9cbf2c184dc7638d9a3ae0d.png",
+            "hash": "d5e2da87b926e8fc50f5821b2ca99e2ee9c4daa1b9cbf2c184dc7638d9a3ae0d",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/26/76481665733993-1724639277-4004-1724639316.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=nUNVD6n6c2-fo50t1YwJDA",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_2c9d41e31ad017deeae15c20197db6c95754f1f7cc8359ce3b0a94ad148a6baf.png",
+            "hash": "2c9d41e31ad017deeae15c20197db6c95754f1f7cc8359ce3b0a94ad148a6baf",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/27/202311170004770170053203750121-6496-7589-1724728554.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=5njiCYTPNlfspzBuvMOl3g",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_c7a6523f7b12ff0fd3bf9f3a04ddffbd8f7430bb9dc13ade3d38dec98aa2c972.png",
+            "hash": "c7a6523f7b12ff0fd3bf9f3a04ddffbd8f7430bb9dc13ade3d38dec98aa2c972",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/27/unnamed16497830498660164978312-3259-3938-1724750654.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=BSfNpwRR6NFNSJUcvqf1tw",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_4548fb623b73a319c16fd8cf68fb49c3f28b0428c67d7fdf234125598b355292.png",
+            "hash": "4548fb623b73a319c16fd8cf68fb49c3f28b0428c67d7fdf234125598b355292",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/30/hocthem16878409071930168784094-2147-3000-1725000917.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=X0Mh-_z0xmYFJuSZhDN92A",
+            "type": "png"
+        },
+        {
+            "post_id": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87",
+            "filename": "ae53dd1a084b653faa14f780c87430baabff9da9c57594f34f9ac822a19a7f87_42018cc754d1a5050dd295e5b29e64a75e6e7c2851975932c6ede8fb9b926642.png",
+            "hash": "42018cc754d1a5050dd295e5b29e64a75e6e7c2851975932c6ede8fb9b926642",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/i/v9508/default/thumb-300.jpg",
+            "type": "png"
+        }
+    ],
+    "content": "Tôi bỏ dạy thêm vì thấy mình kiểu gì cũng thiên vị\nTôi bỏ dạy thêm vì thấy mình kiểu gì cũng thiên vị \n\n\nTôi ngừng dạy thêm dù đem lại thu nhập khá, vì tôi biết kiểu gì cũng có sự thiên vị giữa học sinh học và không học thêm.\n\nVấn đề  được rất nhiều người quan tâm, là chủ đề gây bàn cãi kịch liệt không có hồi kết.Trong khuôn khổ bài viết này, tôi chỉ nêu ra những sự việc mắt thấy tai nghe, bản thân mình từng trải và một vài suy nghĩ về vấn đề này.Năm tôi học lớp 10, từ trường ở xã ra học ở huyện. Lực học rất khá nhưng bộ môn Hóa khi kiểm tra, cố gắng lắm cũng chỉ được 5 đến 6 điểm là cùng, trong khi những đứa học làng nhàng, không bằng mình thì toàn 9, 10 điểm. Vài tuần sau tôi mới biết, những đứa được điểm cao toàn đi học thêm ở nhà giáo viên dạy Hóa lớp tôi. Tôi đành bấm bụng đăng ký học thêm.\nHọc được vài buổi tôi mới biết được, trước khi kiểm tra 15 phút hay 1 tiết cô đều giải gần sát với đề cô sẽ ra trên lớp. Rõ ràng ai đi học thêm thì gần như biết đề nên điểm cao là phải. Chả thế mà lần kiểm tra 1 tiết đợt sau tôi được 9,5 điểm ngon lành. Trên lớp học cô Hiền cũng phân biệt rõ ràng, luôn ưu ái những đứa đến nhà cô học thêm.Sau này tôi học Cao đẳng Sư phạm ngành Vật Lý, ra trường, nhiều phụ huynh đề nghị dạy thêm, tôi cũng mở một lớp chừng gần chục em. Lúc này trên cương vị giáo viên tôi mới nhận thấy, cho dù công tâm thế nào vẫn luôn có ưu ái cho những đứa đến học thêm.Khi kiểm tra miệng, thấy học sinh ấp úng kiểu gì mình cũng phải gợi ý, lúc dạy thêm cũng đá qua các dạng bài mà sắp tới mình sẽ ra đề kiểm tra, thậm chí cả đề thi học kỳ.Vì chính nhóm học sinh học thêm đó tháng nào cũng góp một khoản tiền cho mình, phụ huynh các em lại có điều kiện kinh tế nên hay quà cáp, nịnh nọt thầy. \nTôi bỏ hẳn dạy thêm, tôi xây dựng làm các kênh Youtube để kiếm tiền ngoài đồng lương. Từ đó lên lớp dạy hoàn toàn vô tư, công tâm, không phải lăn tăn gì cả.Con tôi đang học cấp 3, kể có rất nhiều thầy cô ép đi học thêm trắng trợn. Ví như luôn \"soi\" các em không đi học thêm bằng những câu hỏi, bài tập khó để \"dằn mặt\", làm các em lo sợ mà buộc phải đến lớp dạy thêm của họ.Chính vì thế mới có chuyện bi hài: Một học sinh trong một môn phải học thêm hai chỗ, học ở thầy khác để lấy kiến thức và học ở thầy đang dạy mình để lấy lòng. Con tôi còn kể, đa số các thầy trên lớp dạy rất sơ sài, chỉ giảng kỹ khi đến lớp học thêm của các thầy ấy.\nThu nhập từ dạy thêm của giáo viên rất cao, có người kiếm tháng vài chục triệu là bình thường. Ngay trường con tôi học, có một thầy được đề bạt làm hiệu phó. Làm vài năm thầy xin thôi chức, về làm giáo viên bộ môn. Giáo viên trường đó nói, thầy làm quản lý, không còn đứng lớp lên ít học sinh đến học, thu nhập giảm.Vì vậy thầy bỏ luôn cả chức vụ để làm giáo viên, về dạy thêm thu nhập cao. Nghe đâu thầy này dạy thêm tháng cũng tầm 60 triệu. Chính vì lẽ đó nhiều giáo viên ra sức o ép bằng mọi cách để học sinh đến lớp học thêm của họ. Tôi có hỏi một người bạn dạy cấp 3: \"Hiệu trưởng không biết chuyện tiêu cực này à?\". Nó cười hậc một cái rồi bảo: \"Những tay dạy thêm nó nhiều tiền, quà cáp cho sếp hết rồi thì sếp sao còn mở miệng nữa\".Những tiêu cực từ việc dạy thêm diễn ra hằng ngày. Ngay từ bản thân, tôi nhận thấy còn dạy thêm là còn tiêu cực. Không thể nào tránh khỏi. Nó làm nhiều phụ huynh bất bình nhưng vì con em học đang học, họ không dám lên tiếng. Vì đồng tiền, có những giáo viên bất chấp các thủ đoạn, thậm chí là trắng trợn lôi kéo các em học sinh đến lớp của mình.Nhà trường có thể tổ chức các lớp phụ đạo, lớp nâng cao kiến thực tại trường. Học thêm làm giáo viên dạy trên lớp sơ sài, chênh mảng, chỉ chú ý đến lớp học thêm vì nó đem lại một nguồn thu nhập khủng.Xuất phát từ bản thân tôi là giáo viên, những từng trải của bản thân, những chứng kiến hằng ngày, tôi đề nghị nên cấm hoàn toàn việc dạy thêm - học thêm. Tìm những giải pháp tốt nhất cho các trường hợp học sinh cần nâng cao kiến thức thực sự. Cần cấm việc mở các lớp dạy thêm thì mới chấm dứt khối ung nhọt tiêu cực đã âm ỷ bấy lâu nay.\n*Quan điểm của bạn thế nào? Chia sẻ bài viết về chuyện học thêm - dạy thêm về địa chỉ email:hoặc ấn vào box bên dưới.",
+    "share_num": 0,
+    "shares": []
+}

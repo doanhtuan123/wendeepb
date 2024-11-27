@@ -1,0 +1,66 @@
+{
+    "_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/tim-dap-chan-run-vi-gia-vang-nhan-len-87-trieu-dong-4807002.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 12:17:38",
+    "crawled_time": "2024/10/24 12:17:38",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_d156f1ea93d93dd935f161dd494f20f676fe966f154456647cae7bdb0898a5d4.png",
+            "hash": "d156f1ea93d93dd935f161dd494f20f676fe966f154456647cae7bdb0898a5d4",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/26/vang8jpg1726888228182917268882-8487-8086-1727335593.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=q5iNMINFgMmyzeIF0IBaag",
+            "type": "png"
+        },
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_76cf3376f80dcf15f2c48e955ff6b185983f7facb8115e97fd3a8b5c2aca62d9.png",
+            "hash": "76cf3376f80dcf15f2c48e955ff6b185983f7facb8115e97fd3a8b5c2aca62d9",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/04/muavang25170684632073731706846-3940-4754-1728032921.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=4JPavXwYi9Gs7GpQ9wWcoA",
+            "type": "png"
+        },
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_83ada164d9a7d40c99e7e9b31083db4a062335d043fef999dc7071591a6e1538.png",
+            "hash": "83ada164d9a7d40c99e7e9b31083db4a062335d043fef999dc7071591a6e1538",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/05/10/z542459920418412b26d29d5953713-3547-3413-1715306502.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=IpcJcA2MquPUhK2E9dGljA",
+            "type": "png"
+        },
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_c145f0915a7a7d3489f3e83d8be9033e52870beb4c7a4c94396deb7947eee9ed.png",
+            "hash": "c145f0915a7a7d3489f3e83d8be9033e52870beb4c7a4c94396deb7947eee9ed",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/04/22/muavang14526016411760891636297-6335-2557-1713771018.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=2Rg-t1s4A8Rm3cti2AaeYw",
+            "type": "png"
+        },
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_caedc4f324d05b84dc110b4a19a1c487ccd3143cce3cb9bfbe237461fded4e5d.png",
+            "hash": "caedc4f324d05b84dc110b4a19a1c487ccd3143cce3cb9bfbe237461fded4e5d",
+            "link": "https://i1-vnexpress.vnecdn.net/2023/12/30/muavang61594029399182815940294-2744-2327-1703924401.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=N0pDBJW4vlDdhDLXe-gb3g",
+            "type": "png"
+        },
+        {
+            "post_id": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872",
+            "filename": "bc165b7338bae5587dc463f328cb666e57a6b74f788543f682a847db3c548872_c41cf9ccd31ebaf5fe11bce02b16866465e844901377419f8e60b2017d89a493.png",
+            "hash": "c41cf9ccd31ebaf5fe11bce02b16866465e844901377419f8e60b2017d89a493",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/06/09/Vangmiengsjc162235335297481622-2698-4696-1717925300.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=L45B0Jaw2EtTpbJJ-Axj9w",
+            "type": "png"
+        }
+    ],
+    "content": "Tim đập, chân run vì giá vàng nhẫn lên 87 triệu đồng\nTim đập, chân run vì giá vàng nhẫn lên 87 triệu đồng \n\n\nTội cho người đang mắc nợ bằng vàng lúc này vì sợ vàng tiếp tục tăng giá, đầu thì đau vì tìm cách mua trả nợ.\n\nTôi đang mắc nợ anh trai và chị dâu ở quê vài cây vàng mượn từ vài năm trước. Cuối năm nay anh chị có việc cần nên gọi điện lên nói trước để tôi chuẩn bị vàng trả.Nếu vài năm trước, vàng miếng và vàng nhẫn chênh nhau cả chục triệu đồng thì mượn vàng miếng thì trả vàng miếng, mượn vàng nhẫn trơn thì trả nhẫn trơn, mượn gì trả đó. Nhưng nay, vừa nghĩ chỗ anh em trong nhà, giá vàng nhẫn trơn rút hẹp khoảng cách rất nhiều so với vàng miếng, nên anh chị chấp thuận mượn miếng, trả nhẫn trơn.\nNếu như mua vàng miếng online được nhiều người ví von là khó như lên trời, thì vàng nhẫn trơn ép vỉ bây giờ mua cũng rất khó. Một thương hiệu nổi tiếng mỗi ngày chỉ bán một chỉ cho một căn cước công dân. Nếu mua tiền mặt và chuyển khoản thì được hai chỉ một ngày. Nhưng phải xếp hàng chầu chực, bỏ dở công ăn chuyện làm để mua.Còn những thương hiệu có độ uy tín khác, tôi gọi cháy máy, rất lâu mới có người bắt máy tổng đài, rồi nhận được thông báo: \"Hết hàng từ lâu rồi\".Sáng nay nhìn giá vàng nhẫn trơn bán ra lập đỉnh 87 triệu đồng mà tôi đổ mồ hôi. Giá vàng miếng từng lập đỉnh, vượt 90 triệu đồng. Để can thiệp, cơ quan chức năng bán vàng qua ngân hàng, rồi bán qua đăng ký online. Nhưng hầu như rất khó khăn để mua. Tôi thử cả chục lần nhưng luôn chậm tay chậm chân, không đăng ký được.\nVàng miếng khan hiếm, vàng nhẫn được phen làm giá, nên giá tăng vù vù. Trong 7 ngày qua,đã tăng khoảng 3,5 triệu đồng còn vàng miếng tăng 4 triệu đồng. Còn so với thời điểm đầu năm, mỗi lượng nhẫn trơn tăng 23,5 triệu đồng.Tôi nghĩ sẽ còn tăng nữa, theo đà tăng của giá vàng thế giới, và vì tâm lý FOMO. Tuần trước, trong lúc chờ đợi ở một hàng vàng, tôi gặp hai bạn trẻ dắt nhau đi mua một chỉ vàng để dành. Cảnh này tôi chưa từng thấy trước đây bao giờ, vì người mua tôi gặp hầu như chỉ là người đứng tuổi.Chỉ tội cho những ai mắc nợ bằng vàng lúc này, tim đập thình thịch vì sợ vàng sẽ lên giá kỷ lục, vừa đau đầu vì không biết cách nào mua cho đủ để mang đi trả nợ, trong đó có tôi.",
+    "share_num": 0,
+    "shares": []
+}

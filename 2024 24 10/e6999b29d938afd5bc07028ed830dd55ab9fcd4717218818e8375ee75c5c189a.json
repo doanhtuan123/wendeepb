@@ -1,0 +1,66 @@
+{
+    "_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/cac-hang-xe-trung-quoc-va-chau-au-doi-dau-tai-trien-lam-paris-4804768.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Ôtô Xe máy - Thông tin siêu xe, xế hộp, tư vấn mua bán xe - XE VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 08:39:37",
+    "crawled_time": "2024/10/24 08:39:37",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_4381dd602378b42eefd2b0c2f66a70017d41fb111d365e411041296c83691048.png",
+            "hash": "4381dd602378b42eefd2b0c2f66a70017d41fb111d365e411041296c83691048",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/16/Hongqi-1-7738-1729065920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=ZPmrDNTdWITGWtc0ikZipw",
+            "type": "png"
+        },
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_ea6190f13c2d8809c6c03979f5d264ec94d65d9e81ca190dbbaf24ad08fd3427.png",
+            "hash": "ea6190f13c2d8809c6c03979f5d264ec94d65d9e81ca190dbbaf24ad08fd3427",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/16/BYD-Seal-1-2866-1729065920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4llH6zlnCWeOY2NKMshDQg",
+            "type": "png"
+        },
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_f714f433756772bf193c5d33d783d409f3b75f438c814c747b38184ac0d4b63e.png",
+            "hash": "f714f433756772bf193c5d33d783d409f3b75f438c814c747b38184ac0d4b63e",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/16/Renault-1-5350-1729065920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=rqK7zgMg7MDt8mUFYTKadg",
+            "type": "png"
+        },
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_0b0525c62dca2002038f2968a1b7eea0ead0a40e0c2a1b9cd107d6ac847f22d3.png",
+            "hash": "0b0525c62dca2002038f2968a1b7eea0ead0a40e0c2a1b9cd107d6ac847f22d3",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/01/LeapmotorT034-1727770434-4733-1727770564.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=ko8FWimWlGGhz8GA8cl63A",
+            "type": "png"
+        },
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_e7e68c3ea4943a2ea98f957924f7d1f8a4764d350638018064720f44cb1566e4.png",
+            "hash": "e7e68c3ea4943a2ea98f957924f7d1f8a4764d350638018064720f44cb1566e4",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/25/NEV-1727236607-3176-1727237044.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=d_iqCtlT7-XMgGJFihUx_g",
+            "type": "png"
+        },
+        {
+            "post_id": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a",
+            "filename": "e6999b29d938afd5bc07028ed830dd55ab9fcd4717218818e8375ee75c5c189a_f98a69f1dc0fc4ef39fd6345be29a80fb1727c37e8ba6b7d2c4a1fbd8e38c175.png",
+            "hash": "f98a69f1dc0fc4ef39fd6345be29a80fb1727c37e8ba6b7d2c4a1fbd8e38c175",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/20/DongfengNammiBox1-1724129670-1437-1724129843.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=wrgVGlEHg2hZLn7Zi91hQg",
+            "type": "png"
+        }
+    ],
+    "content": "Các hãng xe Trung Quốc và châu Âu đối đầu tại triển lãm Paris\nCác hãng xe Trung Quốc và châu Âu đối đầu tại triển lãm Paris \n\n\nTriển lãm ôtô Paris diễn ra trong bối cảnh căng thẳng giữa liên minh châu Âu và ngành xe điện Trung Quốc.\n\nSự kiện năm nay - triển lãm ôtô lớn nhất châu Âu - diễn ra vào thời điểm quan trọng. Các nhà sản xuất ôtô châu Âu cần chứng tỏ vẫn đang trong cuộc chơi, trong khi các đối thủ Trung Quốc nhắm đến việc thâm nhập thị trường cạnh tranh này.Mặc dù có sự khác biệt, các giám đốc điều hành từ cả hai khu vực đều cảnh báo nguy cơ từ thuế của EU.\"Ai là người thanh toán hóa đơn? Người tiêu dùng. Vì thế điều này khiến mọi người lo ngại, và sẽ ngăn cản những người nghèo hơn đi mua sắm\", Stella Li, phó tổng giám đốc tập đoàn xe điện BYD, cho biết.Giám đốc điều hành Stellantis, Carlos Tavares, nói rằng thuế sẽ khiến các nhà sản xuất ôtô Trung Quốc thiết lập nhà máy tại châu Âu, dẫn đến dư thừa công suất và một số hãng sản xuất địa phương phải đóng cửa nhà máy.Tổng cộng 9 thương hiệu Trung Quốc, trong đó có BYD, Hongqi và Leapmotor, giới thiệu các mẫu xe mới nhất tại sự kiện năm nay. Số lượng này tương đương 2022 khi các hãng Trung Quốc chiếm gần một nửa số thương hiệu tham gia.\nNăm nay, các hãng Trung Quốc chỉ chiếm khoảng 20% số thương hiệu nhờ sự hiện diện mạnh mẽ hơn từ ngành công nghiệp ôtô châu Âu - dấu hiệu cho thấy sự quyết tâm bảo vệ sân nhà.Đầu tháng 10, các quốc gia thành viên EU đã bỏ phiếu thông qua kế hoạch áp thuế nhập khẩu đến 45% đối với xe điện sản xuất tại Trung Quốc nhằm chống lại cái mà Brussels cho là trợ cấp không công bằng từ Bắc Kinh đối với các nhà sản xuất Trung Quốc. Bắc Kinh phản đối kết quả bỏ phiếu.Dù chỉ trích động thái của EU, các hãng ôtô Trung Quốc vẫn tiếp tục kế hoạch mở rộng sang châu Âu và chưa hãng nào đề cập đến việc tăng giá để bù lại thuế.GAC cho biết sự kiện này đánh dấu tham vọng của hãng ở châu Âu, trong khi Leapmotor nói hướng tới mục tiêu 500 điểm bán hàng ở châu Âu vào cuối năm 2025.Các nhà sản xuất xe điện như BYD định giá xe thấp hơn so với các đối thủ châu Âu, giúp mang lại lợi thế. Điều này cũng giúp bù đắp biên lợi nhuận thấp hơn tại thị trường trong nước. Giống như các nhà sản xuất ôtô Nhật Bản và Hàn Quốc trước đây, các hãng xe Trung Quốc cũng đang cung cấp sản phẩm với trang bị tốt hơn và nhiều tính năng tiêu chuẩn hơn.\nTuy nhiên, ngay cả BYD, dù đã bán xe điện ở hầu khắp châu Âu và vừa , vẫn có mức độ nhận diện thương hiệu thấp nên hy vọng tạo được ấn tượng với mẫu SUV Sea Lion 07 đang ra mắt.Các hãng xe mới đến từ Trung Quốc như Dongfeng, Seres và FAW cũng giới thiệu các sản phẩm mới khi tìm kiếm doanh số xe điện ở nước ngoài để bù đắp cho thị trường trong nước đang kém đi và cuộc chiến giá khốc liệt.Áp lực đang gia tăng trong việc giữ giá xe ở mức thấp tại châu Âu khi các hãng xe điện cố gắng thu hẹp khoảng cách với các loại xe động cơ đốt trong rẻ hơn.\"Quan điểm cá nhân là chúng tôi sẽ đạt được mức giá ngang bằng ở châu Âu trong vòng 2-3 năm. Mọi người đều phải nỗ lực hết mình để cạnh tranh\", giám đốc điều hành Leapmotor International, Tianshu Xin, nói.Doanh số xe con của Trung Quốc tăng 4,3% trong tháng 9 so với cùng kỳ năm ngoái sau khi giảm trong 5 tháng liên tiếp nhờ hỗ trợ từ chính phủ để khuyến khích đổi cũ mua mới như một phần của gói kích thích mở rộng. Doanh số xe của châu Âu đạt mức thấp nhất trong ba năm vào tháng 8.Trong một cú sốc khác cho thị trường xe điện, chính phủ Pháp tuyên bố hôm 10/10 sẽ giảm hỗ trợ cho người mua xe điện, theo chân Đức khi quốc gia này đã kết thúc chương trình trợ cấp vào cuối 2023.Các nhà sản xuất ôtô Trung Quốc cũng cần làm tốt ở châu Âu vì họ vẫn chưa thể thâm nhập vào thị trường Mỹ, ít nhất đến lúc này.\nCác nhà sản xuất ôtô châu Âu cũng đang gặp khó khăn. Cả Volkswagen, Mercedes và BMW đều đưa ra cảnh báo khi lợi nhuận chủ yếu do thị trường Trung Quốc mang lại đang dần yếu kém. Stellantis giảm dự báo thu nhập do vấn đề hàng tồn kho ở Mỹ.Tavares không loại trừ khả năng cắt giảm việc làm hoặc bán bớt thương hiệu, khi phát biểu vào ngày 14/10.\"Chúng tôi sẽ phải nỗ lực rất lớn\", ông nói, thêm rằng khách hàng sẽ quyết định thương hiệu nào có tương lai.Volkswagen cũng đang vướng vào cuộc chiến với công đoàn quyền lực về việc cắt giảm chi phí, điều có thể khiến hãng đóng cửa nhà máy tại Đức lần đầu tiên và cắt giảm hàng nghìn việc làm.Lúc này, người châu Âu đang gặp khó khăn trong việc cạnh tranh với các đối thủ Trung Quốc trong việc giảm chi phí cũng như khả năng phát triển các mẫu xe điện mới chỉ trong hai năm - nhanh gấp đôi so với các nhà sản xuất phương Tây truyền thống.\"Người châu Âu đang gióng lên tiếng chuông cảnh báo lớn\", Phil Dunne, giám đốc điều hành tại công ty tư vấn chiến lược Stax, nói. \"Họ nhận ra cần làm điều gì đó thật quyết liệt và chỉ còn vài năm để thực hiện\". (theo )",
+    "share_num": 0,
+    "shares": []
+}

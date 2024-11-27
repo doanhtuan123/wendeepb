@@ -1,0 +1,976 @@
+{
+    "_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/y-nghia-logo-cua-60-hang-oto-tren-the-gioi-4116531.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Ôtô Xe máy - Thông tin siêu xe, xế hộp, tư vấn mua bán xe - XE VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 05:01:41",
+    "crawled_time": "2024/10/24 05:01:41",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f60d830e9cf5df5ece48093186eb5f7b5f7f13179d3267de64b5a3e9695d3656.png",
+            "hash": "f60d830e9cf5df5ece48093186eb5f7b5f7f13179d3267de64b5a3e9695d3656",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo-150x29.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_efd09ba6c52ba00683bb748e903bdb8f26b8c4da76774376c8254c297315ca35.png",
+            "hash": "efd09ba6c52ba00683bb748e903bdb8f26b8c4da76774376c8254c297315ca35",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/bg-lead.jpg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3d17d29aa70467e051ecc5484840ae5d3a71541318121135ecfba19fa1b87c9f.png",
+            "hash": "3d17d29aa70467e051ecc5484840ae5d3a71541318121135ecfba19fa1b87c9f",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/cuon-icon.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_014c720cd248407aac51f0683eca61212afb06e35bf803a5f88dc82a53bc3284.png",
+            "hash": "014c720cd248407aac51f0683eca61212afb06e35bf803a5f88dc82a53bc3284",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/bg-1.jpg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_6467a8e9c26cd7b16632ebd57e65e6cdd1d34715ad5500e36cca6384b0e48b55.png",
+            "hash": "6467a8e9c26cd7b16632ebd57e65e6cdd1d34715ad5500e36cca6384b0e48b55",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-acura.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_591f059c59ea61bd6f2cf2fb9787c0d5af13ed1ef6068d5ed97b4eed388a4b73.png",
+            "hash": "591f059c59ea61bd6f2cf2fb9787c0d5af13ed1ef6068d5ed97b4eed388a4b73",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-0.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b2d56247506f599cd3e83daf73f3efedf9db4e84d5ba8994fca26414dec07f9.png",
+            "hash": "1b2d56247506f599cd3e83daf73f3efedf9db4e84d5ba8994fca26414dec07f9",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-1.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3b55c71375152b406534ea5df7491172dd0ef61b31a7f90fe44a19b70b7afee1.png",
+            "hash": "3b55c71375152b406534ea5df7491172dd0ef61b31a7f90fe44a19b70b7afee1",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-2.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1784ef48a163689b81832f5663ea99664f5d66ed747a2b2b5a672171d866c4a7.png",
+            "hash": "1784ef48a163689b81832f5663ea99664f5d66ed747a2b2b5a672171d866c4a7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-3.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_2cb7dcec3d3e8ec67c2d3ced89e53885f3457a82db5157465b5158e732c1335f.png",
+            "hash": "2cb7dcec3d3e8ec67c2d3ced89e53885f3457a82db5157465b5158e732c1335f",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-4.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_50e647e101f92b7ef0aa08955a48aad45378d2804033dc954509dcef6c05fc50.png",
+            "hash": "50e647e101f92b7ef0aa08955a48aad45378d2804033dc954509dcef6c05fc50",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-5.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_16f4a0bbfa65c71b8649cd5f4cec9f74d80ee8102c3670818f5da713b3cb4ad3.png",
+            "hash": "16f4a0bbfa65c71b8649cd5f4cec9f74d80ee8102c3670818f5da713b3cb4ad3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-6.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7b9703b4714c47dc8eb9acd69833780cbc047803cdb5278f2c437790ee5e08b3.png",
+            "hash": "7b9703b4714c47dc8eb9acd69833780cbc047803cdb5278f2c437790ee5e08b3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-borgward.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7eede473faaed0c76a23a5cb52ff2e1cef53cacbbae85f2c85b0b1518ee605ce.png",
+            "hash": "7eede473faaed0c76a23a5cb52ff2e1cef53cacbbae85f2c85b0b1518ee605ce",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-8.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_4ab123ac749a05dcd8e188c105b66b4981892fc1ddac077ceecf8944fc765b18.png",
+            "hash": "4ab123ac749a05dcd8e188c105b66b4981892fc1ddac077ceecf8944fc765b18",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-9.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b55388929140ad9b0129da74f34651b807dcec48593b1396dcb64eaf6524572.png",
+            "hash": "1b55388929140ad9b0129da74f34651b807dcec48593b1396dcb64eaf6524572",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-10.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0d8c3ffe145f08f17af70c066ec83951d9e88a84cac98bee2d860c6f199b6bc0.png",
+            "hash": "0d8c3ffe145f08f17af70c066ec83951d9e88a84cac98bee2d860c6f199b6bc0",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-11.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a2ea52b8a540d121e51a9a8920a38896fbeed33af0b78fa982ec54ca1d290371.png",
+            "hash": "a2ea52b8a540d121e51a9a8920a38896fbeed33af0b78fa982ec54ca1d290371",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-12.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_2a479898ebb0756c8f27ff68cf43fa8da50f0d2de0b639e89291edef5cf0aadc.png",
+            "hash": "2a479898ebb0756c8f27ff68cf43fa8da50f0d2de0b639e89291edef5cf0aadc",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-13.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a8912ecd4967f41ba85cd438c20ed19c18c7d187364eed23b447b44f1b642059.png",
+            "hash": "a8912ecd4967f41ba85cd438c20ed19c18c7d187364eed23b447b44f1b642059",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-14.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_40d0a74fb9dfe8bfa05953620e3c18cef1defe5caed0e8cdc8c121db2b230183.png",
+            "hash": "40d0a74fb9dfe8bfa05953620e3c18cef1defe5caed0e8cdc8c121db2b230183",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-15.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_73a5cf5725070121c9ae5a5a67064f0da69265debd3daffd96e3376dbf558312.png",
+            "hash": "73a5cf5725070121c9ae5a5a67064f0da69265debd3daffd96e3376dbf558312",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-16.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_099b721c0e6f620b83bf88d060ff2b2e880c20d00a245f8bfdb65e135766b2e2.png",
+            "hash": "099b721c0e6f620b83bf88d060ff2b2e880c20d00a245f8bfdb65e135766b2e2",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-17.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7cdd59a3f578538c7cbd5e560712b0b0e38ecdf5a265508151dcce84a98db892.png",
+            "hash": "7cdd59a3f578538c7cbd5e560712b0b0e38ecdf5a265508151dcce84a98db892",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-honda.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_ef39db3dc196ea9e07e230cedb525da45df332fd196966d78ec91bd4a6068174.png",
+            "hash": "ef39db3dc196ea9e07e230cedb525da45df332fd196966d78ec91bd4a6068174",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-18.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_327b4c90582ac8eb3713d0d426e2ac82ae67df6615861e6e0e89cc26f70f484a.png",
+            "hash": "327b4c90582ac8eb3713d0d426e2ac82ae67df6615861e6e0e89cc26f70f484a",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-19.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0bc38bd0d5070bad2514d909af6d07708df1969400083879a05395abcce93564.png",
+            "hash": "0bc38bd0d5070bad2514d909af6d07708df1969400083879a05395abcce93564",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-20.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f70dce221f93b2f4fca2331a5b1149612156eb443aa450aef309c65099d68b40.png",
+            "hash": "f70dce221f93b2f4fca2331a5b1149612156eb443aa450aef309c65099d68b40",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-kia.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b2991dc84d4901875072242769ed2fe66a393ef13c44c3b428b47dd96dda912.png",
+            "hash": "1b2991dc84d4901875072242769ed2fe66a393ef13c44c3b428b47dd96dda912",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-21.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_147f4f2847dfad9deb57923f5e99151efc84e469504e984133852665824c6eb7.png",
+            "hash": "147f4f2847dfad9deb57923f5e99151efc84e469504e984133852665824c6eb7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-22.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_b16c3ebed5a96714435280ca3e3a48a9bd795c0def76f0e8a3a1773c8a7e7cb3.png",
+            "hash": "b16c3ebed5a96714435280ca3e3a48a9bd795c0def76f0e8a3a1773c8a7e7cb3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-23.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_368b61f2692383160a68f916bd3c42c352f873c7c3c5ca8f724b16f3b0937cc7.png",
+            "hash": "368b61f2692383160a68f916bd3c42c352f873c7c3c5ca8f724b16f3b0937cc7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-24.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f757069f7c166f6de65c54b083690edeb9625e316f147a1b941c935e92e1ddc6.png",
+            "hash": "f757069f7c166f6de65c54b083690edeb9625e316f147a1b941c935e92e1ddc6",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-lexus.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3cc90f88748173cc385a4e6f7ac0f4025822dccbfb7cde7724eac7d636681b91.png",
+            "hash": "3cc90f88748173cc385a4e6f7ac0f4025822dccbfb7cde7724eac7d636681b91",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-25.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_6a4273d2ec181d79eeb61c74faa2a2da5aac2d948e38b1a0cc41d7791c402fde.png",
+            "hash": "6a4273d2ec181d79eeb61c74faa2a2da5aac2d948e38b1a0cc41d7791c402fde",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-26.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_645845ba6099446e6855f343df257dda5a8b21ef4aba04bd11e4d31d4e1d98f3.png",
+            "hash": "645845ba6099446e6855f343df257dda5a8b21ef4aba04bd11e4d31d4e1d98f3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-27.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3770fbe9511d19c41e84a25db4c0561c57a97ebf8d54a85509ff192d1c93a665.png",
+            "hash": "3770fbe9511d19c41e84a25db4c0561c57a97ebf8d54a85509ff192d1c93a665",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-28.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_e9e52affb829cf01902cc8e06ff414e0633f0fb7b4eb39918359d118c3d0c4e5.png",
+            "hash": "e9e52affb829cf01902cc8e06ff414e0633f0fb7b4eb39918359d118c3d0c4e5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-29.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_495a841cf597f578b040d2b14dd27a00b3bf08055dbfb612d24ad36fc0f29fc8.png",
+            "hash": "495a841cf597f578b040d2b14dd27a00b3bf08055dbfb612d24ad36fc0f29fc8",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-30.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_970afcf79ccf716ab7259f3113067da81b8998eddf59d60eb53914959b57b956.png",
+            "hash": "970afcf79ccf716ab7259f3113067da81b8998eddf59d60eb53914959b57b956",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-mini.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1558ff902ab90629216bd6167b471331532dc88b84851a7d94a6ada3f751bc53.png",
+            "hash": "1558ff902ab90629216bd6167b471331532dc88b84851a7d94a6ada3f751bc53",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-31.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0e9635a9dc1f8508c098affd8cec57163088db14b96388fba88b39eda98f9088.png",
+            "hash": "0e9635a9dc1f8508c098affd8cec57163088db14b96388fba88b39eda98f9088",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-32.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3bd81278c0f9739df6ad3ed6f9d3e597657f8abd91d9636b5dc4918eea7342e5.png",
+            "hash": "3bd81278c0f9739df6ad3ed6f9d3e597657f8abd91d9636b5dc4918eea7342e5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-33.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_42d4848ae18e6e480e343aaa974172637b388f57960250b5f415dc960d911b5e.png",
+            "hash": "42d4848ae18e6e480e343aaa974172637b388f57960250b5f415dc960d911b5e",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-34.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_4db2827066cdb06455c1e7282e3d0376996284c55070424110566f6e08db3c52.png",
+            "hash": "4db2827066cdb06455c1e7282e3d0376996284c55070424110566f6e08db3c52",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-35.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_d92a60557fd18946bc40cbf5607eb397f207fb2d669373f1ea75a1a21ea99b93.png",
+            "hash": "d92a60557fd18946bc40cbf5607eb397f207fb2d669373f1ea75a1a21ea99b93",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-36.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_397cccba935f1bb6983af7d00ccf6fe122c89145b00202e2bb74c4b5d5d355bf.png",
+            "hash": "397cccba935f1bb6983af7d00ccf6fe122c89145b00202e2bb74c4b5d5d355bf",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-37.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3c9a2ba472b2191239052231996da15769154ede9dabd29a065311acf32be76d.png",
+            "hash": "3c9a2ba472b2191239052231996da15769154ede9dabd29a065311acf32be76d",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-38.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7c6c9b2fa5f7f939b02fe494188a561575c672c74091acfbcd0bc3dc8cc47cdc.png",
+            "hash": "7c6c9b2fa5f7f939b02fe494188a561575c672c74091acfbcd0bc3dc8cc47cdc",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-39.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3dc5e82cb3cb0d14ca3d6333ef68a25b3261a6a7c1178328a2b40b683051d001.png",
+            "hash": "3dc5e82cb3cb0d14ca3d6333ef68a25b3261a6a7c1178328a2b40b683051d001",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-40.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8bb56578f5d89ce456fec2981620222fb830a0c9be664217918e113b984f827c.png",
+            "hash": "8bb56578f5d89ce456fec2981620222fb830a0c9be664217918e113b984f827c",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-42.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1622edcfeb0dd405dfd4add406fd849380d8eca02cfd801a5443c65741bb7232.png",
+            "hash": "1622edcfeb0dd405dfd4add406fd849380d8eca02cfd801a5443c65741bb7232",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-43.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_95a41d143156c6302433f643b9a6695bc7e23007fd38456f421ffb1064b5e625.png",
+            "hash": "95a41d143156c6302433f643b9a6695bc7e23007fd38456f421ffb1064b5e625",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-44.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3ee7dc0544b0a6688ebbfa3cb59047ddeaf3ff420590c1cf8520a8f5b51c2c12.png",
+            "hash": "3ee7dc0544b0a6688ebbfa3cb59047ddeaf3ff420590c1cf8520a8f5b51c2c12",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-45.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_10cd1900b38cb76f8f2a08fe051a15d0345910e88a2399376195ef787fe01d6f.png",
+            "hash": "10cd1900b38cb76f8f2a08fe051a15d0345910e88a2399376195ef787fe01d6f",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-46.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0f7fc8daae809bf11251404e6979fb3a4c1520630c743df3fe63e03f73b3c9f5.png",
+            "hash": "0f7fc8daae809bf11251404e6979fb3a4c1520630c743df3fe63e03f73b3c9f5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-47.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7665e869077c20959c4472fdd9730bc24b5d05930d2007bb7770db067cae97b5.png",
+            "hash": "7665e869077c20959c4472fdd9730bc24b5d05930d2007bb7770db067cae97b5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-48.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_84c164326d0952a51a85727b8d4ad4d70ce580a398567ec368ea4a985f536442.png",
+            "hash": "84c164326d0952a51a85727b8d4ad4d70ce580a398567ec368ea4a985f536442",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-49.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_049fc012395d3daaf63c57a7567fbad99c77f7d8fa90f7a7cd97730c50d9db5c.png",
+            "hash": "049fc012395d3daaf63c57a7567fbad99c77f7d8fa90f7a7cd97730c50d9db5c",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-50.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_fa2045413f20250fa29b3a455e0f044393609a6fc7c90658adbd5ce7935f47ea.png",
+            "hash": "fa2045413f20250fa29b3a455e0f044393609a6fc7c90658adbd5ce7935f47ea",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-vinfast.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a5e14ab662317439c3863a1b1b536f7d69d9c7dd3699e663ebabb38aacfd45c4.png",
+            "hash": "a5e14ab662317439c3863a1b1b536f7d69d9c7dd3699e663ebabb38aacfd45c4",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-52.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_c757aeafb86966c2c47972cc752b447deb383ca1b150ef942afbd458c702ebef.png",
+            "hash": "c757aeafb86966c2c47972cc752b447deb383ca1b150ef942afbd458c702ebef",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-51.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_6467a8e9c26cd7b16632ebd57e65e6cdd1d34715ad5500e36cca6384b0e48b55.png",
+            "hash": "6467a8e9c26cd7b16632ebd57e65e6cdd1d34715ad5500e36cca6384b0e48b55",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-acura.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_591f059c59ea61bd6f2cf2fb9787c0d5af13ed1ef6068d5ed97b4eed388a4b73.png",
+            "hash": "591f059c59ea61bd6f2cf2fb9787c0d5af13ed1ef6068d5ed97b4eed388a4b73",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-0.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b2d56247506f599cd3e83daf73f3efedf9db4e84d5ba8994fca26414dec07f9.png",
+            "hash": "1b2d56247506f599cd3e83daf73f3efedf9db4e84d5ba8994fca26414dec07f9",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-1.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3b55c71375152b406534ea5df7491172dd0ef61b31a7f90fe44a19b70b7afee1.png",
+            "hash": "3b55c71375152b406534ea5df7491172dd0ef61b31a7f90fe44a19b70b7afee1",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-2.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1784ef48a163689b81832f5663ea99664f5d66ed747a2b2b5a672171d866c4a7.png",
+            "hash": "1784ef48a163689b81832f5663ea99664f5d66ed747a2b2b5a672171d866c4a7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-3.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_2cb7dcec3d3e8ec67c2d3ced89e53885f3457a82db5157465b5158e732c1335f.png",
+            "hash": "2cb7dcec3d3e8ec67c2d3ced89e53885f3457a82db5157465b5158e732c1335f",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-4.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_50e647e101f92b7ef0aa08955a48aad45378d2804033dc954509dcef6c05fc50.png",
+            "hash": "50e647e101f92b7ef0aa08955a48aad45378d2804033dc954509dcef6c05fc50",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-5.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_16f4a0bbfa65c71b8649cd5f4cec9f74d80ee8102c3670818f5da713b3cb4ad3.png",
+            "hash": "16f4a0bbfa65c71b8649cd5f4cec9f74d80ee8102c3670818f5da713b3cb4ad3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-6.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7b9703b4714c47dc8eb9acd69833780cbc047803cdb5278f2c437790ee5e08b3.png",
+            "hash": "7b9703b4714c47dc8eb9acd69833780cbc047803cdb5278f2c437790ee5e08b3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-borgward.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7eede473faaed0c76a23a5cb52ff2e1cef53cacbbae85f2c85b0b1518ee605ce.png",
+            "hash": "7eede473faaed0c76a23a5cb52ff2e1cef53cacbbae85f2c85b0b1518ee605ce",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-8.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_4ab123ac749a05dcd8e188c105b66b4981892fc1ddac077ceecf8944fc765b18.png",
+            "hash": "4ab123ac749a05dcd8e188c105b66b4981892fc1ddac077ceecf8944fc765b18",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-9.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b55388929140ad9b0129da74f34651b807dcec48593b1396dcb64eaf6524572.png",
+            "hash": "1b55388929140ad9b0129da74f34651b807dcec48593b1396dcb64eaf6524572",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-10.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0d8c3ffe145f08f17af70c066ec83951d9e88a84cac98bee2d860c6f199b6bc0.png",
+            "hash": "0d8c3ffe145f08f17af70c066ec83951d9e88a84cac98bee2d860c6f199b6bc0",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-11.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a2ea52b8a540d121e51a9a8920a38896fbeed33af0b78fa982ec54ca1d290371.png",
+            "hash": "a2ea52b8a540d121e51a9a8920a38896fbeed33af0b78fa982ec54ca1d290371",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-12.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_2a479898ebb0756c8f27ff68cf43fa8da50f0d2de0b639e89291edef5cf0aadc.png",
+            "hash": "2a479898ebb0756c8f27ff68cf43fa8da50f0d2de0b639e89291edef5cf0aadc",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-13.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a8912ecd4967f41ba85cd438c20ed19c18c7d187364eed23b447b44f1b642059.png",
+            "hash": "a8912ecd4967f41ba85cd438c20ed19c18c7d187364eed23b447b44f1b642059",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-14.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_40d0a74fb9dfe8bfa05953620e3c18cef1defe5caed0e8cdc8c121db2b230183.png",
+            "hash": "40d0a74fb9dfe8bfa05953620e3c18cef1defe5caed0e8cdc8c121db2b230183",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-15.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_73a5cf5725070121c9ae5a5a67064f0da69265debd3daffd96e3376dbf558312.png",
+            "hash": "73a5cf5725070121c9ae5a5a67064f0da69265debd3daffd96e3376dbf558312",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-16.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_099b721c0e6f620b83bf88d060ff2b2e880c20d00a245f8bfdb65e135766b2e2.png",
+            "hash": "099b721c0e6f620b83bf88d060ff2b2e880c20d00a245f8bfdb65e135766b2e2",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-17.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7cdd59a3f578538c7cbd5e560712b0b0e38ecdf5a265508151dcce84a98db892.png",
+            "hash": "7cdd59a3f578538c7cbd5e560712b0b0e38ecdf5a265508151dcce84a98db892",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-honda.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_ef39db3dc196ea9e07e230cedb525da45df332fd196966d78ec91bd4a6068174.png",
+            "hash": "ef39db3dc196ea9e07e230cedb525da45df332fd196966d78ec91bd4a6068174",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-18.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_327b4c90582ac8eb3713d0d426e2ac82ae67df6615861e6e0e89cc26f70f484a.png",
+            "hash": "327b4c90582ac8eb3713d0d426e2ac82ae67df6615861e6e0e89cc26f70f484a",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-19.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0bc38bd0d5070bad2514d909af6d07708df1969400083879a05395abcce93564.png",
+            "hash": "0bc38bd0d5070bad2514d909af6d07708df1969400083879a05395abcce93564",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-20.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f70dce221f93b2f4fca2331a5b1149612156eb443aa450aef309c65099d68b40.png",
+            "hash": "f70dce221f93b2f4fca2331a5b1149612156eb443aa450aef309c65099d68b40",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-kia.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1b2991dc84d4901875072242769ed2fe66a393ef13c44c3b428b47dd96dda912.png",
+            "hash": "1b2991dc84d4901875072242769ed2fe66a393ef13c44c3b428b47dd96dda912",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-21.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_147f4f2847dfad9deb57923f5e99151efc84e469504e984133852665824c6eb7.png",
+            "hash": "147f4f2847dfad9deb57923f5e99151efc84e469504e984133852665824c6eb7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-22.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_b16c3ebed5a96714435280ca3e3a48a9bd795c0def76f0e8a3a1773c8a7e7cb3.png",
+            "hash": "b16c3ebed5a96714435280ca3e3a48a9bd795c0def76f0e8a3a1773c8a7e7cb3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-23.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_368b61f2692383160a68f916bd3c42c352f873c7c3c5ca8f724b16f3b0937cc7.png",
+            "hash": "368b61f2692383160a68f916bd3c42c352f873c7c3c5ca8f724b16f3b0937cc7",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-24.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f757069f7c166f6de65c54b083690edeb9625e316f147a1b941c935e92e1ddc6.png",
+            "hash": "f757069f7c166f6de65c54b083690edeb9625e316f147a1b941c935e92e1ddc6",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-lexus.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3cc90f88748173cc385a4e6f7ac0f4025822dccbfb7cde7724eac7d636681b91.png",
+            "hash": "3cc90f88748173cc385a4e6f7ac0f4025822dccbfb7cde7724eac7d636681b91",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-25.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_6a4273d2ec181d79eeb61c74faa2a2da5aac2d948e38b1a0cc41d7791c402fde.png",
+            "hash": "6a4273d2ec181d79eeb61c74faa2a2da5aac2d948e38b1a0cc41d7791c402fde",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-26.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_645845ba6099446e6855f343df257dda5a8b21ef4aba04bd11e4d31d4e1d98f3.png",
+            "hash": "645845ba6099446e6855f343df257dda5a8b21ef4aba04bd11e4d31d4e1d98f3",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-27.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3770fbe9511d19c41e84a25db4c0561c57a97ebf8d54a85509ff192d1c93a665.png",
+            "hash": "3770fbe9511d19c41e84a25db4c0561c57a97ebf8d54a85509ff192d1c93a665",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-28.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_e9e52affb829cf01902cc8e06ff414e0633f0fb7b4eb39918359d118c3d0c4e5.png",
+            "hash": "e9e52affb829cf01902cc8e06ff414e0633f0fb7b4eb39918359d118c3d0c4e5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-29.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_495a841cf597f578b040d2b14dd27a00b3bf08055dbfb612d24ad36fc0f29fc8.png",
+            "hash": "495a841cf597f578b040d2b14dd27a00b3bf08055dbfb612d24ad36fc0f29fc8",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-30.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_970afcf79ccf716ab7259f3113067da81b8998eddf59d60eb53914959b57b956.png",
+            "hash": "970afcf79ccf716ab7259f3113067da81b8998eddf59d60eb53914959b57b956",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-mini.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1558ff902ab90629216bd6167b471331532dc88b84851a7d94a6ada3f751bc53.png",
+            "hash": "1558ff902ab90629216bd6167b471331532dc88b84851a7d94a6ada3f751bc53",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-31.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0e9635a9dc1f8508c098affd8cec57163088db14b96388fba88b39eda98f9088.png",
+            "hash": "0e9635a9dc1f8508c098affd8cec57163088db14b96388fba88b39eda98f9088",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-32.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3bd81278c0f9739df6ad3ed6f9d3e597657f8abd91d9636b5dc4918eea7342e5.png",
+            "hash": "3bd81278c0f9739df6ad3ed6f9d3e597657f8abd91d9636b5dc4918eea7342e5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-33.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_42d4848ae18e6e480e343aaa974172637b388f57960250b5f415dc960d911b5e.png",
+            "hash": "42d4848ae18e6e480e343aaa974172637b388f57960250b5f415dc960d911b5e",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-34.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_4db2827066cdb06455c1e7282e3d0376996284c55070424110566f6e08db3c52.png",
+            "hash": "4db2827066cdb06455c1e7282e3d0376996284c55070424110566f6e08db3c52",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-35.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_d92a60557fd18946bc40cbf5607eb397f207fb2d669373f1ea75a1a21ea99b93.png",
+            "hash": "d92a60557fd18946bc40cbf5607eb397f207fb2d669373f1ea75a1a21ea99b93",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-36.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_397cccba935f1bb6983af7d00ccf6fe122c89145b00202e2bb74c4b5d5d355bf.png",
+            "hash": "397cccba935f1bb6983af7d00ccf6fe122c89145b00202e2bb74c4b5d5d355bf",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-37.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3c9a2ba472b2191239052231996da15769154ede9dabd29a065311acf32be76d.png",
+            "hash": "3c9a2ba472b2191239052231996da15769154ede9dabd29a065311acf32be76d",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-38.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7c6c9b2fa5f7f939b02fe494188a561575c672c74091acfbcd0bc3dc8cc47cdc.png",
+            "hash": "7c6c9b2fa5f7f939b02fe494188a561575c672c74091acfbcd0bc3dc8cc47cdc",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-39.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3dc5e82cb3cb0d14ca3d6333ef68a25b3261a6a7c1178328a2b40b683051d001.png",
+            "hash": "3dc5e82cb3cb0d14ca3d6333ef68a25b3261a6a7c1178328a2b40b683051d001",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-40.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8bb56578f5d89ce456fec2981620222fb830a0c9be664217918e113b984f827c.png",
+            "hash": "8bb56578f5d89ce456fec2981620222fb830a0c9be664217918e113b984f827c",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-42.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_1622edcfeb0dd405dfd4add406fd849380d8eca02cfd801a5443c65741bb7232.png",
+            "hash": "1622edcfeb0dd405dfd4add406fd849380d8eca02cfd801a5443c65741bb7232",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-43.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_95a41d143156c6302433f643b9a6695bc7e23007fd38456f421ffb1064b5e625.png",
+            "hash": "95a41d143156c6302433f643b9a6695bc7e23007fd38456f421ffb1064b5e625",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-44.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_3ee7dc0544b0a6688ebbfa3cb59047ddeaf3ff420590c1cf8520a8f5b51c2c12.png",
+            "hash": "3ee7dc0544b0a6688ebbfa3cb59047ddeaf3ff420590c1cf8520a8f5b51c2c12",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-45.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_10cd1900b38cb76f8f2a08fe051a15d0345910e88a2399376195ef787fe01d6f.png",
+            "hash": "10cd1900b38cb76f8f2a08fe051a15d0345910e88a2399376195ef787fe01d6f",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-46.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_0f7fc8daae809bf11251404e6979fb3a4c1520630c743df3fe63e03f73b3c9f5.png",
+            "hash": "0f7fc8daae809bf11251404e6979fb3a4c1520630c743df3fe63e03f73b3c9f5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-47.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_7665e869077c20959c4472fdd9730bc24b5d05930d2007bb7770db067cae97b5.png",
+            "hash": "7665e869077c20959c4472fdd9730bc24b5d05930d2007bb7770db067cae97b5",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-48.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_84c164326d0952a51a85727b8d4ad4d70ce580a398567ec368ea4a985f536442.png",
+            "hash": "84c164326d0952a51a85727b8d4ad4d70ce580a398567ec368ea4a985f536442",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-49.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_049fc012395d3daaf63c57a7567fbad99c77f7d8fa90f7a7cd97730c50d9db5c.png",
+            "hash": "049fc012395d3daaf63c57a7567fbad99c77f7d8fa90f7a7cd97730c50d9db5c",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-50.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_fa2045413f20250fa29b3a455e0f044393609a6fc7c90658adbd5ce7935f47ea.png",
+            "hash": "fa2045413f20250fa29b3a455e0f044393609a6fc7c90658adbd5ce7935f47ea",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-vinfast.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_a5e14ab662317439c3863a1b1b536f7d69d9c7dd3699e663ebabb38aacfd45c4.png",
+            "hash": "a5e14ab662317439c3863a1b1b536f7d69d9c7dd3699e663ebabb38aacfd45c4",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-52.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_c757aeafb86966c2c47972cc752b447deb383ca1b150ef942afbd458c702ebef.png",
+            "hash": "c757aeafb86966c2c47972cc752b447deb383ca1b150ef942afbd458c702ebef",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/logo/logo-51.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_cc676a1fa564502571c7a9009502a4d881da46c9badc4d15fa1ea74551c9a908.png",
+            "hash": "cc676a1fa564502571c7a9009502a4d881da46c9badc4d15fa1ea74551c9a908",
+            "link": "https://is.vnecdn.net/v101/31/65/11/4116531/assets/images/gotop-2.png",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_dc1f0221ab8a725c2efd354d8611a4421492efafb7b3fdd0a5a5f778607ba5d3.png",
+            "hash": "dc1f0221ab8a725c2efd354d8611a4421492efafb7b3fdd0a5a5f778607ba5d3",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/images/graphics/loading1.gif",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_f9ee3908f895ee2e6cb63e0dd2a2586c456eeb30d3754e653c8216894123d5d1.png",
+            "hash": "f9ee3908f895ee2e6cb63e0dd2a2586c456eeb30d3754e653c8216894123d5d1",
+            "link": "https://a1.vnecdn.net/s41749716522897057724.jpg?w=60&h=60&s=No9n8U9bapyuk0HpsJBaWQ",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_27130093ad4744915f93161bcb6d63924eea97c31555795cbc640c66b96b8209.png",
+            "hash": "27130093ad4744915f93161bcb6d63924eea97c31555795cbc640c66b96b8209",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/surprised.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_27130093ad4744915f93161bcb6d63924eea97c31555795cbc640c66b96b8209.png",
+            "hash": "27130093ad4744915f93161bcb6d63924eea97c31555795cbc640c66b96b8209",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/surprised.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_d5a07c3bc4f67a2f65e75eb719b59ec8f3f17fd4b1167ef4857bfbd03674a41a.png",
+            "hash": "d5a07c3bc4f67a2f65e75eb719b59ec8f3f17fd4b1167ef4857bfbd03674a41a",
+            "link": "https://a1.vnecdn.net/s41358819385009362367.jpg?w=60&h=60&s=y_iT5E6eXuy01nX0q59C5w",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e",
+            "filename": "12cdc5eac6fb4e57ef84176f60e5b9cea03435d3044242c66e80b35dd31cd86e_8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8.png",
+            "hash": "8f038e353d510ff0adcd17019e884b2a094a8aa663b83c56db903c8a925597c8",
+            "link": "https://s1.vnecdn.net/vnexpress/restruct/c/v2985/v2/wcomment/pc/vne/images/graphics/like.svg",
+            "type": "png"
+        }
+    ],
+    "content": "Ý nghĩa logo của 60 hãng ôtô trên thế giới\n© Copyright 1997 - VnExpress.net, All rights reserved\n® VnExpress giữ bản quyền nội dung trên website này.\nHãy đăng nhập hoặc tạo tài khoản để gửi bình luận\nHãy đăng nhập hoặc tạo tài khoản để gửi bình luận\nhai hoangMercedes là tên con gái của 1 thương gia người áo emil Jellinek, ông đã đặt 36 xe từ Daimler và yêu cầu đặt tên xe theo tên con gái của mình, sau đó Daimler cũng quyết định đặt tên hãng là Mercedes. Mercedes trong tiếng Tây Ban Nha cũng có nghĩa là \"duyên dáng, yêu kiều\"\nng.vanquynhDựa vào Lịch Sử các Logo cho thấy. Người chế tạo ra chiếc Ô Tô thực sự đầu tiên trên thế giới là người Đức Karl Benz. Đủ để hiểu đc vì sao công nghệ Ô Tô Đức luôn đi đầu thế giới!\n7 trả lời\nTun TũnThấy chỉ có 53 Logo, không thấy Logo của hãng nổi tiếng nhất thế giới là Toyota!\n9 trả lời\nThầy thích vui vẻMec đẹp nhất kế đến Lexus và toyota và mit. Huyndai xấu nhất\nwwwquanghienCác hãng xe của Đức có logo mang dấu ấn đơn giản mà rất ấn tượng và dễ nhận diện.\n",
+    "share_num": 0,
+    "shares": []
+}

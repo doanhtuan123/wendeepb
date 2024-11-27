@@ -1,0 +1,52 @@
+{
+    "_id": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/so-sanh-toc-do-ket-noi-thuc-te-cua-5g-va-4g-4805903.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Tin tức công nghệ - Thông tin thế giới số internet - VnExpress Số Hóa",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 03:56:30",
+    "crawled_time": "2024/10/24 03:56:30",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110",
+            "filename": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110_8a53c42c5fb68dea1db144edb1d66c38c4cc6b40c40e3bd63a4a56837788fcfa.png",
+            "hash": "8a53c42c5fb68dea1db144edb1d66c38c4cc6b40c40e3bd63a4a56837788fcfa",
+            "link": "https://iv1.vnecdn.net/vnexpress/images/web/2024/10/18/thu-nghiem-toc-do-5g-tai-ha-noi-1729268198.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=wbWJhjn-IlSWzpCDT1qdYg",
+            "type": "png"
+        },
+        {
+            "post_id": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110",
+            "filename": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110_555f4963243c3c2d05eacc2d8d544bc9a9e2bbcf7747962689b7ec81d9986d5b.png",
+            "hash": "555f4963243c3c2d05eacc2d8d544bc9a9e2bbcf7747962689b7ec81d9986d5b",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/17/2024-10-03t094631z-946822719-m-7293-1733-1729157489.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=lkRapO5Qh_68VR7NZ-aK-A",
+            "type": "png"
+        },
+        {
+            "post_id": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110",
+            "filename": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110_5c4ec0b9f6f17a2b32215a3eba085b8fdfecf0000a27c482fc3978834643be84.png",
+            "hash": "5c4ec0b9f6f17a2b32215a3eba085b8fdfecf0000a27c482fc3978834643be84",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/15/sonr2675-1728991948-3253-1728992096.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=M6IO6tOtGcTQMuvMT518Gw",
+            "type": "png"
+        },
+        {
+            "post_id": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110",
+            "filename": "9052a68d1b7f9bf09f077ef86872bff39c471dc17c83272c6b778007cffca110_c52b50e828ac9e9fce0f734afc876b1a42079653456f283a54f449378826ecda.png",
+            "hash": "c52b50e828ac9e9fce0f734afc876b1a42079653456f283a54f449378826ecda",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/15/IMG0182-1728972277-2980-1728972297.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=rMzwZKIsSVtSXm8-t_vJtQ",
+            "type": "png"
+        }
+    ],
+    "content": "So sánh tốc độ kết nối thực tế của 5G và 4G\nSo sánh tốc độ kết nối thực tế của 5G và 4G \n\n\nTrong thử nghiệm, điện thoại kết nối 5G cần chưa đến 20 giây để tải ứng dụng có dung lượng 1,2 GB, tốc độ đo bằng Speedtest cao hơn hàng chục lần 4G.\n\n- Mạng 5G cho tốc độ cao vượt trội, nhưng chưa ổn định trong giai đoạn đầu triển khai. Kết quả đo có thể chênh lệch ở những địa điểm cách nhau vài chục mét.- Tốc độ tải của 5G cao hơn nhiều tốc độ tối đa mạng 4G đạt được.- Ở những khu vực mạng 5G đạt tốc độ cao, kết nối 4G có xu hướng yếu hơn mức trung bình.- Tốc độ đường download cao hơn nhiều lần tốc độ upload.- Với các tác vụ như lướt web, mạng xã hội, 4G đủ nhanh và không khác biệt lớn với 5G. Chênh lệch thấy rõ khi tải những file dung lượng lớn, điện thoại sử dụng 5G có thể hoàn thành trong hơn 10 giây với ứng dụng hơn 1 GB.",
+    "share_num": 0,
+    "shares": []
+}

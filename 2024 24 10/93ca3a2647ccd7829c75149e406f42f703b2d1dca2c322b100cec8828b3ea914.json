@@ -1,0 +1,66 @@
+{
+    "_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/nen-tang-hai-ngay-nghi-dip-quoc-khanh-hay-tet-nguyen-dan-4807303.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 11:58:50",
+    "crawled_time": "2024/10/24 11:58:50",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_463991a2d9063712494e6ad382a3036df8b0cfe4c93f44fe31a248df8af222f9.png",
+            "hash": "463991a2d9063712494e6ad382a3036df8b0cfe4c93f44fe31a248df8af222f9",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/18/vequeantet16414444711641444485-8847-1511-1726645456.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=n68SxWTpjl-8a7HXior1sQ",
+            "type": "png"
+        },
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_1b91154a6ed8cac1b34f670037029536e45fd600db8865745dd6467c8d04cbfd.png",
+            "hash": "1b91154a6ed8cac1b34f670037029536e45fd600db8865745dd6467c8d04cbfd",
+            "link": "https://i1-vnexpress.vnecdn.net/2023/11/27/img62901556276144r680x01595116-6450-6941-1701078655.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=Xwo__GdsBFkWhXJnDAUuEQ",
+            "type": "png"
+        },
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_630012153e597fa47f9e80ae0dfb3ab6262111bef89e6de5824d2d84a65ad531.png",
+            "hash": "630012153e597fa47f9e80ae0dfb3ab6262111bef89e6de5824d2d84a65ad531",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/17/269748291270299538334199845282-3511-2198-1726550536.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=OQPjd6Qtjj8yOpQhRiY2PA",
+            "type": "png"
+        },
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_c2335f5fc8387c243f7fb8d43bd85306437c40c8e1bb1c986627f8e5e96d82f7.png",
+            "hash": "c2335f5fc8387c243f7fb8d43bd85306437c40c8e1bb1c986627f8e5e96d82f7",
+            "link": "https://i1-vnexpress.vnecdn.net/2022/08/30/sinhvienveque13625161223590830-6609-4066-1661818778.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=ro0V-OqfTtFSIvb4x3KP9A",
+            "type": "png"
+        },
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_494d1b64ace096767aae4c04f944ad5618b4b5fab117f448d1390e8de61a7741.png",
+            "hash": "494d1b64ace096767aae4c04f944ad5618b4b5fab117f448d1390e8de61a7741",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/17/veque4JPG168267489717053021056-5482-2736-1726557932.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=Kc0M73SjFUOPOiRhO4KpJw",
+            "type": "png"
+        },
+        {
+            "post_id": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914",
+            "filename": "93ca3a2647ccd7829c75149e406f42f703b2d1dca2c322b100cec8828b3ea914_3aa0dc051dc32bf984bcecd5d4a235c9afa3602d53325d5d370bf9acc03fc2e8.png",
+            "hash": "3aa0dc051dc32bf984bcecd5d4a235c9afa3602d53325d5d370bf9acc03fc2e8",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/04/269748291270299538334199845282-2792-5680-1725440146.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=o2jioOE9k_p6dgx4sfbyWg",
+            "type": "png"
+        }
+    ],
+    "content": "Nên tăng hai ngày nghỉ dịp Quốc khánh hay Tết Nguyên đán?\nNên tăng hai ngày nghỉ dịp Quốc khánh hay Tết Nguyên đán? \n\n\nNếu ngày cuối cùng của kỳ nghỉ Tết dài ngày rơi vào cuối tuần, thì xử lý thế nào?\n\nBộ Lao động Thương binh và Xã hội trình Thủ tướng từ 26 tháng chạp đến hết mùng 5 tháng giêng (25/1-2/2/2025) để kỳ lễ kéo dài 9 ngày. Sau hơn một tháng lấy ý kiến, 13/16 cơ quan, bộ ngành đã đồng ý với phương án nghỉ Tết 9 ngày do Bộ Lao động Thương binh và Xã hội đề xuất.Chắc hẳn ai cũng háo hức với kỳ nghỉ Tết dài 9 ngày. Nhiều người cũng đồng ý với bài viết nghỉ Tết bảy ngày để \"\".Nhưng thật khó, nếu đầu và cuối kỳ nghỉ lễ không rơi vào hai ngày nghỉ cuối tuần, thì với quy định cũng nghỉ 5 ngày theo luật, thông lệ sẽ nghỉ chỉ 7 ngày (2 ngày cuối tuần rơi vào cuối hoặc đầu kỳ nghỉ.\nTrong khi đó, hồi tháng rồi tôi thấy có đề xuất mong muốn kéo giãn các kỳ lễ trong năm đồng đều cho lao động thêm thời giờ nghỉ ngơi bên gia đình, đưa con cái đi khai giảng bằng cách Tôi cho rằng nên tăng hai ngày nghỉ vào dịp Tết Nguyên đán, dù sao quy định theo luật 5 ngày vẫn còn khá ít.Thứ nhất, tăng thêm hai ngày thì cơ quan, xí nghiệp dễ lên kế hoạch sản xuất hơn. Người dân cũng an tâm và thong thả hơn, rằng cuối năm chắc chắn có một kỳ nghỉ kéo dài một tuần lễ, để lên kế hoạch mua sắm, về quê, sum họp gia đình.\nThứ hai, nếu tăng hai ngày nghỉ dịp Quốc khánh để kéo dài đến 5/9, để mọi người đưa con đến trường. Lý do này tôi thấy chưa thuyết phục lắm vì trong năm học, ngày nào số đông cha mẹ cũng đưa rước các con đến trường, chứ đâu riêng gì ngày khai giảng?Nếu gửi con ở quê, công nhân đợi 5/9 đưa con đến trường, trong khi đây là ngày nghỉ cuối, thì làm sao kịp quay về thành phố làm việc? Hơn nữa, thời gian này, các công ty xí nghiệp lên kế hoạch đơn hàng cho dịp cuối năm, chắc hẳn họ cũng lo ngại.Thay vì vậy, tôi nghĩ nên dồn hai ngày nghỉ này vào dịp Tết, một lần cho đáng.\n*Quan điểm của bạn thế nào? Chia sẻ bài viết qua địa chỉ email: hoặc ấn vào box bên dưới.",
+    "share_num": 0,
+    "shares": []
+}

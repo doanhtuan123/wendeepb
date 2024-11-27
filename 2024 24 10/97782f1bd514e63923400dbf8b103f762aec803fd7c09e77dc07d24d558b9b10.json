@@ -1,0 +1,80 @@
+{
+    "_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/vi-sao-toc-do-5g-kem-on-dinh-co-luc-xuong-ngang-4g-4805863.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Tin tức công nghệ - Thông tin thế giới số internet - VnExpress Số Hóa",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 00:07:06",
+    "crawled_time": "2024/10/24 00:07:06",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_8a53c42c5fb68dea1db144edb1d66c38c4cc6b40c40e3bd63a4a56837788fcfa.png",
+            "hash": "8a53c42c5fb68dea1db144edb1d66c38c4cc6b40c40e3bd63a4a56837788fcfa",
+            "link": "https://iv1.vnecdn.net/vnexpress/images/web/2024/10/18/thu-nghiem-toc-do-5g-tai-ha-noi-1729268198.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=wbWJhjn-IlSWzpCDT1qdYg",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_0fc5102062901f638cad08aa6fc37b747d43b37ca3bd2c733aac5856d703639c.png",
+            "hash": "0fc5102062901f638cad08aa6fc37b747d43b37ca3bd2c733aac5856d703639c",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/21/New-5G-Popular-Frequency-Bands-4040-2412-1729522972.png?w=680&h=0&q=100&dpr=1&fit=crop&s=tMtuQAHCyYX3CVRQQPdT9g",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_4ac581d4bdf170152e85f755db35c5c1d79d226edbb272b220698e31c4295c97.png",
+            "hash": "4ac581d4bdf170152e85f755db35c5c1d79d226edbb272b220698e31c4295c97",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/21/LQ-02583-6816-1729522972.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=ljFANry_8euMDDhpxFcCaw",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_ce789bc13853978bbcf48e83661dcd59748800c5297c78b7534d8599e1b08b57.png",
+            "hash": "ce789bc13853978bbcf48e83661dcd59748800c5297c78b7534d8599e1b08b57",
+            "link": "https://public.flourish.studio/resources/bosh.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_ce789bc13853978bbcf48e83661dcd59748800c5297c78b7534d8599e1b08b57.png",
+            "hash": "ce789bc13853978bbcf48e83661dcd59748800c5297c78b7534d8599e1b08b57",
+            "link": "https://public.flourish.studio/resources/bosh.svg",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_2ac8cb158b85583675a8ac740d2f60ace43ec8b382d51b39f226be3bdd76bae7.png",
+            "hash": "2ac8cb158b85583675a8ac740d2f60ace43ec8b382d51b39f226be3bdd76bae7",
+            "link": "https://i1-sohoa.vnecdn.net/2024/03/22/IMG7535-1711061417-6798-1711061422.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=seVpkid9FU1pZVaK1L_vkQ",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_5c4ec0b9f6f17a2b32215a3eba085b8fdfecf0000a27c482fc3978834643be84.png",
+            "hash": "5c4ec0b9f6f17a2b32215a3eba085b8fdfecf0000a27c482fc3978834643be84",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/15/sonr2675-1728991948-3253-1728992096.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=M6IO6tOtGcTQMuvMT518Gw",
+            "type": "png"
+        },
+        {
+            "post_id": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10",
+            "filename": "97782f1bd514e63923400dbf8b103f762aec803fd7c09e77dc07d24d558b9b10_23095b1f5817c6f90cea79147736877802c2e2f2e2a4ba018b70feb3963f63a5.png",
+            "hash": "23095b1f5817c6f90cea79147736877802c2e2f2e2a4ba018b70feb3963f63a5",
+            "link": "https://i1-sohoa.vnecdn.net/2024/10/19/LQ02593-1729312605-9052-1729312641.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=vrA8oj8DOBrF602L_zCkig",
+            "type": "png"
+        }
+    ],
+    "content": "Vì sao tốc độ 5G kém ổn định, có lúc xuống ngang 4G?\nVì sao tốc độ 5G kém ổn định, có lúc xuống ngang 4G? \n\n\nMột tuần sau khi được thương mại hóa, nhiều người cho biết tốc độ 5G thất thường, chênh lệch đáng kể khi đo ở các địa điểm khác nhau.\n\nThử nghiệm của tại một số khu vực ở Hà Nội, TP HCM với ứng dụng như i-Speed, Ookla Speedtest cũng cho thấy mạng 5G có lúc đạt hơn 700 Mbps, nhưng cách đó vài chục mét có thể xuống dưới 100 Mbps.Theo chuyên gia phân tích Affandy Johan của Ookla - công ty phát triển công cụ Speedtest, \"đây là giai đoạn rất sớm của 5G tại Việt Nam\", vì vậy người dùng sẽ gặp tình trạng tốc độ và tín hiệu kém ổn định, cần thời gian để chất lượng đồng đều như 4G. Một số yếu tố chính có thể ảnh hưởng đến kết quả đo tốc độ mạng là khoảng cách đến trạm phát sóng, vật cản và số lượng thiết bị kết nối vào một trạm.Theo ông Johan, nhà mạng khi triển khai 5G có xu hướng tập trung tại khu vực đô thị, đông người. Khi số lượng người dùng không nhiều, một số trạm thu phát sóng \"dư thừa dung lượng\", dẫn đến tốc độ truy cập rất cao.Hạn chế của giai đoạn đầu triển khai là số lượng trạm ít, vùng phủ sóng không đều, hoặc chịu ảnh hưởng khi ở nơi đông người hoặc trong nhà. Ngoài ra, 5G của Viettel khai thác trên  tầm trung 2,6 GHz, còn 4G là 1,8 GHz. Theo lý thuyết, tần số càng cao suy hao càng mạnh, độ phủ của một trạm 5G với tần số trên có thể thấp hơn 15-20% so với trạm 4G hiện nay.\nTừ nguyên nhân trên, nhà phân tích Ookla cho rằng người dùng sẽ cảm thấy trải nghiệm không đồng đều, tốc độ nhiều khu vực có thể bị hạ xuống ngang 4G. Tuy nhiên, ông đánh giá mạng thế hệ mới đang mang đến nhiều tín hiệu tích cực tại Việt Nam.Thống kê của công cụ Speedtest cho thấy mạng 5G trong quý III/2024 tại Việt Nam cho tốc độ trung bình hơn 300 Mbps, gấp gần sáu lần tốc độ trung bình của 4G trong nước. Đây là giai đoạn các nhà mạng chuẩn bị thương mại hóa công nghệ kết nối mới và nhiều người có thể bắt sóng, dùng thử.Thời gian phủ rộng 5G sẽ phụ thuộc vào chiến lược của từng nhà mạng, cũng như tần số mà họ đấu giá thành công. Theo một chuyên gia viễn thông có nhiều năm theo dõi thị trường Việt Nam, khi Viettel triển khai mạng 4G vào năm 2017, số lượng thiết bị đầu cuối rất phổ biến. Nhà mạng này có 36 nghìn trạm 4G, phủ rộng trên 90% dân số trên toàn quốc ngay trong giai đoạn ra mắt.Với mạng 5G, Viettel cho biết đã lắp đặt 6.500 trạm trên cả nước, mức rất nhỏ so với hàng chục nghìn trạm 4G. Trong khi đó, Vinaphone và MobiFone chưa chính thức triển khai nên chưa công bố số lượng trạm. Lượng thiết bị đầu cuối hạn chế, khiến nhà mạng có xu hướng phủ sóng trước ở Hà Nội, TP HCM và thủ phủ của các tỉnh thành, hoặc khu công nghiệp, khu du lịch - những nơi 5G có tiềm năng kinh doanh, mang lại giá trị lớn hơn cho người dùng, khi tận dụng thế mạnh độ trễ gần bằng 0 và hỗ trợ số lượng thiết bị lớn.\nĐây cũng là tình trạng chung của thế giới. Theo báo cáo của Liên minh Viễn thông quốc tế ITU năm 2023, bốn năm kể từ khi thương mại hóa, mạng 5G mới phủ đến 40% dân số thế giới, chưa được một nửa mức 90% của 4G. Sự phân bổ cũng không đồng đều khi châu Âu có 68% dân số được phủ sóng, châu Mỹ 59% và châu Á - Thái Bình Dương là 42%.Theo nhà phân tích của Ookla, số trạm 5G cần để phủ rộng sẽ phụ thuộc vào tần số sử dụng tại Việt Nam. Nếu tần số thấp, độ phủ sóng sẽ rộng hơn và cần ít trạm hơn. \"Ở hầu hết thị trường triển khai 5G, nhà mạng thường kết hợp băng tần thấp và băng tần trung để cân bằng hiệu suất tốc độ cao - phạm vi phủ sóng\", ông Johan cho biết.Tại Việt Nam, băng tần thấp 700 MHz vẫn đang trong quá trình chuẩn bị đấu giá. Tại cuộc họp tuần trước, Bộ Thông tin và Truyền thông cho biết sẽ có phương án tổ chức đấu giá sau khi Nghị định quy định chi tiết và biện pháp thi hành một số điều Luật Viễn thông 2023 được ban hành và có hiệu lực.Chuyên gia của Ookla cũng lưu ý khi mạng 5G phủ rộng, tốc độ tối đa có thể sẽ giảm do số lượng người dùng gia tăng, hoặc khi nhà mạng khai thác các băng tần thấp, đánh đổi tốc độ lấy độ phủ. Ngoài ra, ông nhấn mạnh giá cước và việc phổ cập điện thoại 5G cũng ảnh hưởng đến quá trình.\"Khả năng chi trả và sự sẵn có của smartphone hỗ trợ 5G là yếu tố quan trọng thúc đẩy tăng trưởng thuê bao. Khuyến khích người dùng nâng cấp thiết bị hỗ trợ 5G là bước đầu tiên cần làm trước khi cung cấp dịch vụ cũng như gia tăng hiệu suất mạng \", ông Johan nói.\n\n\n:",
+    "share_num": 0,
+    "shares": []
+}

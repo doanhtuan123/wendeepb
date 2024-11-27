@@ -1,0 +1,73 @@
+{
+    "_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+    "type": "emedia",
+    "type_id": 1,
+    "link": "https://vnexpress.net/mua-6-mui-khoan-nho-nhung-mat-36-nghin-dong-phi-ship-noi-thanh-4807363.html",
+    "source": {
+        "source_link": "https://vnexpress.net",
+        "source_name": "Diễn đàn chia sẻ kinh nghiệm, quan điểm xã hội, dân sinh - VnExpress",
+        "source_genre": "",
+        "source_age": "",
+        "source_location": "",
+        "source_from": ""
+    },
+    "parent_id": "",
+    "react": {},
+    "created_time": "2024/10/24 09:15:14",
+    "crawled_time": "2024/10/24 09:15:14",
+    "comments_num": 0,
+    "attachments": [
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_3e4c9976d31d9b40224e6c893cef843fe95b066572a5ea55810a0cb4c722904a.png",
+            "hash": "3e4c9976d31d9b40224e6c893cef843fe95b066572a5ea55810a0cb4c722904a",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/19/mtinthoi1541058956658315410595-9479-9152-1729304050.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=X9NJ-kSRx3XnQtIL-g8w4w",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_0d67178a4d36128bc409b2f3ee130be285be547b3bb6bf1c3626d68f6b411dd5.png",
+            "hash": "0d67178a4d36128bc409b2f3ee130be285be547b3bb6bf1c3626d68f6b411dd5",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/17/CapturePNG-1729135755-9144-1729135790.png?w=180&h=108&q=100&dpr=1&fit=crop&s=ydHRbZsiqzA-PlxfezracQ",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_fc129010e1b8c631b69471836f5b428604e2a8bedbaa08c36d11bd7a35b3bc66.png",
+            "hash": "fc129010e1b8c631b69471836f5b428604e2a8bedbaa08c36d11bd7a35b3bc66",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/21/390911670036259172647384898001-9479-6117-1729484122.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=KDgfr5-XUJqh0rZYnFkk2w",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_53910c63e0cbec8f71188050dc4cbc228729a9a5ca97ef97bdcc8b098b54a786.png",
+            "hash": "53910c63e0cbec8f71188050dc4cbc228729a9a5ca97ef97bdcc8b098b54a786",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/10/21/onlineshopping59171475548250-1-6832-5092-1729480901.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=oHrvk3fIbRpVbIuWlhQDbA",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_3e8945e484a45f9820ce92042dd978f9bf255c5beefb9d619f6b5a52790e36b2.png",
+            "hash": "3e8945e484a45f9820ce92042dd978f9bf255c5beefb9d619f6b5a52790e36b2",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/09/19/matbanganhtu381615946022751624-3739-5334-1726732732.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=BUBp3cZ7MubQkod8CYaoQA",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_b32a7b09614231bc80fe37579a52062d7d3125540c556a2a7baa77b8c1b331e4.png",
+            "hash": "b32a7b09614231bc80fe37579a52062d7d3125540c556a2a7baa77b8c1b331e4",
+            "link": "https://i1-vnexpress.vnecdn.net/2024/08/15/thietke11713901709205333-17237-7877-3506-1723704958.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=eTffypSnTv4YD_TqSh8s4A",
+            "type": "png"
+        },
+        {
+            "post_id": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c",
+            "filename": "076f2bef510dff7b338b5060b098e1a833ef36c51ac61e6d3f76ca547340d52c_21c4793bc37dd589ef5946477aa9d7671e15ac7e604bda6525a1e88797422f51.png",
+            "hash": "21c4793bc37dd589ef5946477aa9d7671e15ac7e604bda6525a1e88797422f51",
+            "link": "https://i1-vnexpress.vnecdn.net/2023/11/16/201255317340640981028263881521-1667-9187-1700123689.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=Smr6c8zZvBQoCyADPHKmZg",
+            "type": "png"
+        }
+    ],
+    "content": "Mua 6 mũi khoan nhỏ nhưng mất 36 nghìn đồng phí ship nội thành\nMua 6 mũi khoan nhỏ nhưng mất 36 nghìn đồng phí ship nội thành \n\n\n'Cùng giá trị món hàng, mua từ Trung Quốc chỉ tốn 10-20 nghìn phí vận chuyển đến Sài Gòn, trong khi từ Hà Nội phải tốn 30-35 nghìn đồng'.\n\n\n\"Hiện nay, tôi mua hàng trên sàn thương mại điện tử từ người bán trong nước, đơn hàng nội thành Hà Nội, trọng lượng rất nhẹ (chỉ 6 cái mũi khoan nhỏ) mà giá vận chuyển lên đến 36 nghìn đồng.\nVới phí vận chuyển cao như vậy, làm sao có thể cạnh tranh được?\".\nĐộc giả nickname chia sẻ như trên, sau thông tin hai sàn thương mại điện tử Trung Quốc là vào Việt Nam.\nBỏ qua chuyện giá rẻ, chất lượng hàng hóa, nhiều độc giả  thảo luận và cảnh báo nguy cơ hàng nội địa Việt dù bán trên các sàn thương mại điện tử vẫn khó cạnh tranh, vì phí vận chuyển cao.\n\"Chúng ta thua ngay từ khâu logistic. Gửi chuyển phát nhanh một cái phong bì thư nhẹ 1 gram cách 1 km trong cùng quận, thông qua một bưu điện phổ biến đã tốn khoảng 11 nghìn đồng rồi\", độc giả nói.\n\nĐồng ý với nhận định trên, độc giả \"Điểm yếu của doanh nghiệp Việt là phí vận chuyển. Người mua không thể chấp nhận khi mua hàng ngay ở địa phương bên cạnh mà giá ship ngang bằng với giá hàng. Trong khi cùng món hàng đó, mua từ Trung Quốc, phí vận chuyển chỉ tốn một ít, thậm chí miễn phí\".\nCụ thể, độc giả bình luận: \"Cùng giá trị món hàng, mua từ Trung Quốc thì chỉ tốn 10-20 nghìn tiền phí vận chuyển đến Sài Gòn, trong khi từ Hà Nội vào Sài Gòn thì phải tốn 30-35 nghìn. Không thể hiểu nổi\".\nNgoài phí cao, thời gian vận chuyển lâu cũng là nhược điểm: \"Logistic của chúng ta quá chậm. Tôi đặt đơn hàng từ Văn Giang - Hưng Yên mà 11 ngày chưa nhận được, trong khi đặt hàng từ Trung Quốc thì chỉ mất 3 ngày tới tay. Ngoài giá rẻ, thì vận chuyển là yếu tố quan trọng nhất, và chúng ta đã thua ngay trên sân nhà\", độc giả \n\nĐộc giả chỉ ra nguyên nhân: \"Trung Quốc làm tốt nhất ở khoản gửi, lấy hàng tại địa chỉ cố định. Điều này giúp giảm rất nhiều chi phí ở khâu vận chuyển.\nTrong khi đó, ở Việt Nam là ship tận nhà, người giao hàng phải luân chuyển liên tục, không tối ưu được chi phí vận hành. Ở khu bạn, dù chỉ có một đơn hay hàng nghìn đơn, thì cũng chỉ cần vài lần di chuyển của xe hàng.\nCòn lại khách hàng tự đến điểm giao nhận sẽ giảm đáng kể chi phí ship. Điều tiên quyết là phải tiến tới thanh toán không dùng tiền mặt 100%\".\nĐã trải nghiệm mua hàng trên Temu, độc giả  nhận xét: \"Tôi đã mua hàng trên Temu, và từ cách họ đóng gói, tôi có thể đoán rằng hàng hóa bán trên đó đã được tập kết toàn bộ tại kho của Temu, sau đó họ đóng gói và chuyển thẳng đến khách hàng.\n\nTôi đặt hàng từ tối, mà tới sáng họ đã đóng gói xong và đưa cho đơn vị vận chuyển. Phải nói rằng khâu này họ làm tốt hơn hẳn các sàn còn lại.\nVề chất lượng hàng hóa, tôi thấy hàng giống như hình quảng cáo, nhưng chất lượng thì tương xứng với giá tiền, không quá rẻ cũng không quá đắt. Có những mặt hàng giá rẻ không tưởng - thường loại hàng này được Temu trợ giá. Ví dụ: mua 6 cái ly thủy tinh giá chỉ có 20 nghìn đồng.\nTôi nghĩ, người dùng nếu cần thiết nên tìm những mặt hàng được trợ giá như vậy để mua sẽ là một món hời, còn những món khác thì cũng không rẻ lắm đâu\".\n\n*Quan điểm của bạn thế nào? Chia sẻ bài viết qua địa chỉ email: hoặc ấn vào box bên dưới.",
+    "share_num": 0,
+    "shares": []
+}
