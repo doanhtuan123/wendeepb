@@ -90,12 +90,14 @@
             {% for result in results %}
                 <li>
                     {% if loop.first %}
-                        <!-- Chỉ hiển thị title ở mục đầu tiên -->
+                        <!-- Hiển thị tiêu đề chỉ cho kết quả đầu tiên -->
                         <h2>{{ result.title }}</h2>
                     {% endif %}
                     <p><a href="{{ result.link }}" target="_blank">{{ result.link }}</a></p>
                     <p><strong>Nguồn: </strong>{{ result.source }}</p>
-                    <img src="{{ result.image }}" alt="Image" width="180">
+                    {% if result.image %}
+                        <img src="{{ result.image }}" alt="Image" width="180">
+                    {% endif %}
                 </li>
             {% endfor %}
         </ul>
@@ -105,5 +107,4 @@
         </div>
     {% endif %}
 </body>
-
 </html>
